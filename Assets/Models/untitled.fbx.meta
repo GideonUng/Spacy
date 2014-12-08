@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 0948cc2946e3085489a3a2dcb6c46194
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera
+    100002: chest
+    100004: chest-1
+    100006: clavicle.L
+    100008: clavicle.R
+    100010: Cube
+    100012: deltoid.L
+    100014: deltoid.R
+    100016: Desktop
+    100018: Desktop:Body
+    100020: Desktop:Gizmos
+    100022: Desktop:High-poly
+    100024: eye.L
+    100026: eye.R
+    100028: f_index.01.L
+    100030: f_index.01.R
+    100032: f_index.02.L
+    100034: f_index.02.R
+    100036: f_index.03.L
+    100038: f_index.03.R
+    100040: f_middle.01.L
+    100042: f_middle.01.R
+    100044: f_middle.02.L
+    100046: f_middle.02.R
+    100048: f_middle.03.L
+    100050: f_middle.03.R
+    100052: f_pinky.01.L
+    100054: f_pinky.01.R
+    100056: f_pinky.02.L
+    100058: f_pinky.02.R
+    100060: f_pinky.03.L
+    100062: f_pinky.03.R
+    100064: f_ring.01.L
+    100066: f_ring.01.R
+    100068: f_ring.02.L
+    100070: f_ring.02.R
+    100072: f_ring.03.L
+    100074: f_ring.03.R
+    100076: foot.L
+    100078: foot.R
+    100080: forearm.L
+    100082: forearm.R
+    100084: GZM_Ball025
+    100086: GZM_Breast_L
+    100088: GZM_Breast_R
+    100090: GZM_Circle025
+    100092: GZM_CircleChest
+    100094: GZM_CircleHips
+    100096: GZM_CircleSpine
+    100098: GZM_CrownHips
+    100100: GZM_Cube025
+    100102: GZM_Cube05
+    100104: GZM_Face
+    100106: GZM_FaceHead
+    100108: GZM_FaceJaw
+    100110: GZM_Foot
+    100112: GZM_FootIK
+    100114: GZM_Gaze
+    100116: GZM_Hand
+    100118: GZM_HandIK
+    100120: GZM_Head
+    100122: GZM_Jaw
+    100124: GZM_Knuckle
+    100126: GZM_LoLid
+    100128: GZM_Master
+    100130: GZM_Neck
+    100132: GZM_RevFoot
+    100134: GZM_RevToe
+    100136: GZM_Root
+    100138: GZM_Shoulder
+    100140: GZM_Toe
+    100142: GZM_Tongue
+    100144: GZM_UpLid
+    100146: hand.L
+    100148: hand.R
+    100150: head
+    100152: hips
+    100154: jaw
+    100156: Lamp
+    100158: lolid.L
+    100160: lolid.R
+    100162: neck
+    100164: p_brow_in.L
+    100166: p_brow_in.R
+    100168: p_brow_mid
+    100170: p_brow_out.L
+    100172: p_brow_out.R
+    100174: p_cheek.L
+    100176: p_cheek.R
+    100178: p_face
+    100180: p_face_display
+    100182: p_jaw
+    100184: p_lo_lid.L
+    100186: p_lo_lid.R
+    100188: p_lo_lip.L
+    100190: p_lo_lip.R
+    100192: p_lo_lip_mid
+    100194: p_mouth_in.L
+    100196: p_mouth_in.R
+    100198: p_mouth_mid
+    100200: p_mouth_out.L
+    100202: p_mouth_out.R
+    100204: p_nose
+    100206: p_tongue
+    100208: p_up_lid.L
+    100210: p_up_lid.R
+    100212: p_up_lip.L
+    100214: p_up_lip.R
+    100216: p_up_lip_mid
+    100218: palm_index.L
+    100220: palm_index.R
+    100222: palm_middle.L
+    100224: palm_middle.R
+    100226: palm_pinky.L
+    100228: palm_pinky.R
+    100230: palm_ring.L
+    100232: palm_ring.R
+    100234: shin.L
+    100236: shin.R
+    100238: spine
+    100240: spine-1
+    100242: thigh.L
+    100244: thigh.R
+    100246: thumb.01.L
+    100248: thumb.01.R
+    100250: thumb.02.L
+    100252: thumb.02.R
+    100254: thumb.03.L
+    100256: thumb.03.R
+    100258: toe.L
+    100260: toe.R
+    100262: tongue_base
+    100264: tongue_mid
+    100266: tongue_tip
+    100268: //RootNode
+    100270: uplid.L
+    100272: uplid.R
+    100274: upper_arm.L
+    100276: upper_arm.R
+    100278: Assets
+    100280: Assets:Body
+    100282: Assets:Eyebrow001
+    100284: Assets:Eyelashes02
+    100286: Assets:Fhair01
+    100288: Assets:Gizmos
+    100290: Assets:High-poly
+    100292: Assets:Jeans01
+    100294: Assets:Shoes02
+    100296: Assets:Teeth_base
+    100298: Assets:Tongue01
+    100300: Assets:Tshirt_long
+    100302: Assets:Deflector_Head
+    100304: Assets:Deflector_Torso
+    400000: Camera
+    400002: chest
+    400004: chest-1
+    400006: clavicle.L
+    400008: clavicle.R
+    400010: Cube
+    400012: deltoid.L
+    400014: deltoid.R
+    400016: Desktop
+    400018: Desktop:Body
+    400020: Desktop:Gizmos
+    400022: Desktop:High-poly
+    400024: eye.L
+    400026: eye.R
+    400028: f_index.01.L
+    400030: f_index.01.R
+    400032: f_index.02.L
+    400034: f_index.02.R
+    400036: f_index.03.L
+    400038: f_index.03.R
+    400040: f_middle.01.L
+    400042: f_middle.01.R
+    400044: f_middle.02.L
+    400046: f_middle.02.R
+    400048: f_middle.03.L
+    400050: f_middle.03.R
+    400052: f_pinky.01.L
+    400054: f_pinky.01.R
+    400056: f_pinky.02.L
+    400058: f_pinky.02.R
+    400060: f_pinky.03.L
+    400062: f_pinky.03.R
+    400064: f_ring.01.L
+    400066: f_ring.01.R
+    400068: f_ring.02.L
+    400070: f_ring.02.R
+    400072: f_ring.03.L
+    400074: f_ring.03.R
+    400076: foot.L
+    400078: foot.R
+    400080: forearm.L
+    400082: forearm.R
+    400084: GZM_Ball025
+    400086: GZM_Breast_L
+    400088: GZM_Breast_R
+    400090: GZM_Circle025
+    400092: GZM_CircleChest
+    400094: GZM_CircleHips
+    400096: GZM_CircleSpine
+    400098: GZM_CrownHips
+    400100: GZM_Cube025
+    400102: GZM_Cube05
+    400104: GZM_Face
+    400106: GZM_FaceHead
+    400108: GZM_FaceJaw
+    400110: GZM_Foot
+    400112: GZM_FootIK
+    400114: GZM_Gaze
+    400116: GZM_Hand
+    400118: GZM_HandIK
+    400120: GZM_Head
+    400122: GZM_Jaw
+    400124: GZM_Knuckle
+    400126: GZM_LoLid
+    400128: GZM_Master
+    400130: GZM_Neck
+    400132: GZM_RevFoot
+    400134: GZM_RevToe
+    400136: GZM_Root
+    400138: GZM_Shoulder
+    400140: GZM_Toe
+    400142: GZM_Tongue
+    400144: GZM_UpLid
+    400146: hand.L
+    400148: hand.R
+    400150: head
+    400152: hips
+    400154: jaw
+    400156: Lamp
+    400158: lolid.L
+    400160: lolid.R
+    400162: neck
+    400164: p_brow_in.L
+    400166: p_brow_in.R
+    400168: p_brow_mid
+    400170: p_brow_out.L
+    400172: p_brow_out.R
+    400174: p_cheek.L
+    400176: p_cheek.R
+    400178: p_face
+    400180: p_face_display
+    400182: p_jaw
+    400184: p_lo_lid.L
+    400186: p_lo_lid.R
+    400188: p_lo_lip.L
+    400190: p_lo_lip.R
+    400192: p_lo_lip_mid
+    400194: p_mouth_in.L
+    400196: p_mouth_in.R
+    400198: p_mouth_mid
+    400200: p_mouth_out.L
+    400202: p_mouth_out.R
+    400204: p_nose
+    400206: p_tongue
+    400208: p_up_lid.L
+    400210: p_up_lid.R
+    400212: p_up_lip.L
+    400214: p_up_lip.R
+    400216: p_up_lip_mid
+    400218: palm_index.L
+    400220: palm_index.R
+    400222: palm_middle.L
+    400224: palm_middle.R
+    400226: palm_pinky.L
+    400228: palm_pinky.R
+    400230: palm_ring.L
+    400232: palm_ring.R
+    400234: shin.L
+    400236: shin.R
+    400238: spine
+    400240: spine-1
+    400242: thigh.L
+    400244: thigh.R
+    400246: thumb.01.L
+    400248: thumb.01.R
+    400250: thumb.02.L
+    400252: thumb.02.R
+    400254: thumb.03.L
+    400256: thumb.03.R
+    400258: toe.L
+    400260: toe.R
+    400262: tongue_base
+    400264: tongue_mid
+    400266: tongue_tip
+    400268: //RootNode
+    400270: uplid.L
+    400272: uplid.R
+    400274: upper_arm.L
+    400276: upper_arm.R
+    400278: Assets
+    400280: Assets:Body
+    400282: Assets:Eyebrow001
+    400284: Assets:Eyelashes02
+    400286: Assets:Fhair01
+    400288: Assets:Gizmos
+    400290: Assets:High-poly
+    400292: Assets:Jeans01
+    400294: Assets:Shoes02
+    400296: Assets:Teeth_base
+    400298: Assets:Tongue01
+    400300: Assets:Tshirt_long
+    400302: Assets:Deflector_Head
+    400304: Assets:Deflector_Torso
+    2300000: Cube
+    2300002: GZM_Ball025
+    2300004: GZM_Breast_L
+    2300006: GZM_Breast_R
+    2300008: GZM_Circle025
+    2300010: GZM_CircleChest
+    2300012: GZM_CircleHips
+    2300014: GZM_CircleSpine
+    2300016: GZM_CrownHips
+    2300018: GZM_Cube025
+    2300020: GZM_Cube05
+    2300022: GZM_Face
+    2300024: GZM_FaceHead
+    2300026: GZM_FaceJaw
+    2300028: GZM_Foot
+    2300030: GZM_FootIK
+    2300032: GZM_Gaze
+    2300034: GZM_Hand
+    2300036: GZM_HandIK
+    2300038: GZM_Head
+    2300040: GZM_Jaw
+    2300042: GZM_Knuckle
+    2300044: GZM_LoLid
+    2300046: GZM_Master
+    2300048: GZM_Neck
+    2300050: GZM_RevFoot
+    2300052: GZM_RevToe
+    2300054: GZM_Root
+    2300056: GZM_Shoulder
+    2300058: GZM_Toe
+    2300060: GZM_Tongue
+    2300062: GZM_UpLid
+    2300064: Assets:Deflector_Head
+    2300066: Assets:Deflector_Torso
+    3300000: Cube
+    3300002: GZM_Ball025
+    3300004: GZM_Breast_L
+    3300006: GZM_Breast_R
+    3300008: GZM_Circle025
+    3300010: GZM_CircleChest
+    3300012: GZM_CircleHips
+    3300014: GZM_CircleSpine
+    3300016: GZM_CrownHips
+    3300018: GZM_Cube025
+    3300020: GZM_Cube05
+    3300022: GZM_Face
+    3300024: GZM_FaceHead
+    3300026: GZM_FaceJaw
+    3300028: GZM_Foot
+    3300030: GZM_FootIK
+    3300032: GZM_Gaze
+    3300034: GZM_Hand
+    3300036: GZM_HandIK
+    3300038: GZM_Head
+    3300040: GZM_Jaw
+    3300042: GZM_Knuckle
+    3300044: GZM_LoLid
+    3300046: GZM_Master
+    3300048: GZM_Neck
+    3300050: GZM_RevFoot
+    3300052: GZM_RevToe
+    3300054: GZM_Root
+    3300056: GZM_Shoulder
+    3300058: GZM_Toe
+    3300060: GZM_Tongue
+    3300062: GZM_UpLid
+    3300064: Assets:Deflector_Head
+    3300066: Assets:Deflector_Torso
+    4300000: Assets:Deflector_Torso
+    4300002: Assets:Deflector_Head
+    4300062: Desktop:High-poly
+    4300064: Desktop:Body
+    4300066: Cube
+    4300068: Assets:Tshirt_long
+    4300070: Assets:Shoes02
+    4300072: Assets:Jeans01
+    4300074: Assets:Tongue01
+    4300076: Assets:Teeth_base
+    4300078: Assets:Eyelashes02
+    4300080: Assets:Eyebrow001
+    4300082: Assets:High-poly
+    4300084: Assets:Fhair01
+    4300086: Assets:Body
+    7400000: Assets|AssetsAction
+    9500000: //RootNode
+    13700000: Desktop:Body
+    13700002: Desktop:High-poly
+    13700004: Assets:Body
+    13700006: Assets:Eyebrow001
+    13700008: Assets:Eyelashes02
+    13700010: Assets:Fhair01
+    13700012: Assets:High-poly
+    13700014: Assets:Jeans01
+    13700016: Assets:Shoes02
+    13700018: Assets:Teeth_base
+    13700020: Assets:Tongue01
+    13700022: Assets:Tshirt_long
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Assets|AssetsAction
+      takeName: Assets|AssetsAction
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Assets
+        weight: 1
+      - path: Assets/Assets:Deflector_Head
+        weight: 1
+      - path: Assets/Assets:Deflector_Torso
+        weight: 1
+      - path: Assets/Assets:Gizmos
+        weight: 1
+      - path: Assets/Assets:Gizmos/GZM_Cube05
+        weight: 1
+      - path: Assets/Assets:Gizmos/GZM_Cube025
+        weight: 1
+      - path: Assets/Assets:Gizmos/GZM_Face
+        weight: 1
+      - path: Assets/hips
+        weight: 1
+      - path: Assets/hips/spine
+        weight: 1
+      - path: Assets/hips/spine/chest
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.L
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.L/upper_arm.L
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/f_index.01.L
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/f_ring.01.L
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/thumb.02.L
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.L/upper_arm.L/forearm.L/hand.L/thumb.02.L/thumb.03.L
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.R
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.R/upper_arm.R
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/f_index.01.R
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/f_ring.01.R
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/thumb.02.R
+        weight: 1
+      - path: Assets/hips/spine/chest/clavicle.R/upper_arm.R/forearm.R/hand.R/thumb.02.R/thumb.03.R
+        weight: 1
+      - path: Assets/hips/spine/chest/neck
+        weight: 1
+      - path: Assets/hips/spine/chest/neck/head
+        weight: 1
+      - path: Assets/hips/spine/chest/neck/head/eye.L
+        weight: 1
+      - path: Assets/hips/spine/chest/neck/head/eye.R
+        weight: 1
+      - path: Assets/hips/spine/chest/neck/head/jaw
+        weight: 1
+      - path: Assets/hips/thigh.L
+        weight: 1
+      - path: Assets/hips/thigh.L/shin.L
+        weight: 1
+      - path: Assets/hips/thigh.L/shin.L/foot.L
+        weight: 1
+      - path: Assets/hips/thigh.L/shin.L/foot.L/toe.L
+        weight: 1
+      - path: Assets/hips/thigh.R
+        weight: 1
+      - path: Assets/hips/thigh.R/shin.R
+        weight: 1
+      - path: Assets/hips/thigh.R/shin.R/foot.R
+        weight: 1
+      - path: Assets/hips/thigh.R/shin.R/foot.R/toe.R
+        weight: 1
+      - path: Assets/p_face
+        weight: 1
+      - path: Assets/p_face/p_brow_in.L
+        weight: 1
+      - path: Assets/p_face/p_brow_in.R
+        weight: 1
+      - path: Assets/p_face/p_brow_mid
+        weight: 1
+      - path: Assets/p_face/p_brow_out.L
+        weight: 1
+      - path: Assets/p_face/p_brow_out.R
+        weight: 1
+      - path: Assets/p_face/p_cheek.L
+        weight: 1
+      - path: Assets/p_face/p_cheek.R
+        weight: 1
+      - path: Assets/p_face/p_face_display
+        weight: 1
+      - path: Assets/p_face/p_jaw
+        weight: 1
+      - path: Assets/p_face/p_lo_lid.L
+        weight: 1
+      - path: Assets/p_face/p_lo_lid.R
+        weight: 1
+      - path: Assets/p_face/p_lo_lip.L
+        weight: 1
+      - path: Assets/p_face/p_lo_lip.R
+        weight: 1
+      - path: Assets/p_face/p_lo_lip_mid
+        weight: 1
+      - path: Assets/p_face/p_mouth_in.L
+        weight: 1
+      - path: Assets/p_face/p_mouth_in.R
+        weight: 1
+      - path: Assets/p_face/p_mouth_mid
+        weight: 1
+      - path: Assets/p_face/p_mouth_out.L
+        weight: 1
+      - path: Assets/p_face/p_mouth_out.R
+        weight: 1
+      - path: Assets/p_face/p_nose
+        weight: 1
+      - path: Assets/p_face/p_tongue
+        weight: 1
+      - path: Assets/p_face/p_up_lid.L
+        weight: 1
+      - path: Assets/p_face/p_up_lid.R
+        weight: 1
+      - path: Assets/p_face/p_up_lip.L
+        weight: 1
+      - path: Assets/p_face/p_up_lip.R
+        weight: 1
+      - path: Assets/p_face/p_up_lip_mid
+        weight: 1
+      - path: Assets:Body
+        weight: 1
+      - path: Assets:Jeans01
+        weight: 1
+      - path: Assets:Shoes02
+        weight: 1
+      - path: Assets:Tshirt_long
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
