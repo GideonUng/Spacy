@@ -121,6 +121,8 @@ ModelImporter:
     100230: Naomi_High-poly
     100232: Naomi_Teeth_base
     100234: Naomi_Tongue01
+    100236: Naomi_Deflector_Head
+    100238: Naomi_Deflector_Torso
     400000: chest
     400002: chest-1
     400004: clavicle_L
@@ -239,6 +241,8 @@ ModelImporter:
     400230: Naomi_High-poly
     400232: Naomi_Teeth_base
     400234: Naomi_Tongue01
+    400236: Naomi_Deflector_Head
+    400238: Naomi_Deflector_Torso
     2300000: GZM_Ball025
     2300002: GZM_Breast_L
     2300004: GZM_Breast_R
@@ -328,6 +332,8 @@ ModelImporter:
     4300044: GZM_FaceHead
     4300046: Cube
     4300048: GZM_Jaw
+    4300050: Naomi_Deflector_Torso
+    4300052: Naomi_Deflector_Head
     4300054: GZM_Neck
     4300056: GZM_FootIK
     4300058: GZM_FaceJaw
@@ -346,6 +352,8 @@ ModelImporter:
     13700014: Naomi_High-poly
     13700016: Naomi_Teeth_base
     13700018: Naomi_Tongue01
+    13700020: Naomi_Deflector_Head
+    13700022: Naomi_Deflector_Torso
   materials:
     importMaterials: 1
     materialName: 0
