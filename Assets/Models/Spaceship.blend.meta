@@ -54,6 +54,30 @@ ModelImporter:
     100096: Hallway_001_MeshPart2
     100098: Size_Body
     100100: Size_High-poly
+    100102: Hatch
+    100104: Hatch_001
+    100106: Cargo_Area
+    100108: Cargo_Area_MeshPart0
+    100110: Cargo_Area_MeshPart1
+    100112: Cargo_Area_MeshPart2
+    100114: Cargo_Area_MeshPart3
+    100116: Cargo_Area_Wall
+    100118: Cube
+    100120: Hatch_Door
+    100122: Staircase_Room_Floor
+    100124: Hatch_002
+    100126: Hatch_003
+    100128: Hatch_004
+    100130: Hatch_Door_001
+    100132: Hatch_Door_002
+    100134: Hatch_Door_003
+    100136: Hatch_Door_004
+    100138: Hatch_Door_005
+    100140: Hatch_Door_006
+    100142: Hatch_Door_007
+    100144: Hatch_Door_008
+    100146: Hatch_Door_000
+    100148: Hatch_Door_009
     400000: Plane_MeshPart0
     400002: Plane_MeshPart1
     400004: Plane_MeshPart2
@@ -105,6 +129,30 @@ ModelImporter:
     400096: Hallway_001_MeshPart2
     400098: Size_Body
     400100: Size_High-poly
+    400102: Hatch
+    400104: Hatch_001
+    400106: Cargo_Area
+    400108: Cargo_Area_MeshPart0
+    400110: Cargo_Area_MeshPart1
+    400112: Cargo_Area_MeshPart2
+    400114: Cargo_Area_MeshPart3
+    400116: Cargo_Area_Wall
+    400118: Cube
+    400120: Hatch_Door
+    400122: Staircase_Room_Floor
+    400124: Hatch_002
+    400126: Hatch_003
+    400128: Hatch_004
+    400130: Hatch_Door_001
+    400132: Hatch_Door_002
+    400134: Hatch_Door_003
+    400136: Hatch_Door_004
+    400138: Hatch_Door_005
+    400140: Hatch_Door_006
+    400142: Hatch_Door_007
+    400144: Hatch_Door_008
+    400146: Hatch_Door_000
+    400148: Hatch_Door_009
     2300000: Plane_MeshPart0
     2300002: Plane_MeshPart1
     2300004: Plane_MeshPart2
@@ -152,6 +200,29 @@ ModelImporter:
     2300088: Plane
     2300090: Size_Body
     2300092: Size_High-poly
+    2300094: Hatch
+    2300096: Hatch_001
+    2300098: Cargo_Area_MeshPart0
+    2300100: Cargo_Area_MeshPart1
+    2300102: Cargo_Area_MeshPart2
+    2300104: Cargo_Area_MeshPart3
+    2300106: Cargo_Area_Wall
+    2300108: Cube
+    2300110: Hatch_Door
+    2300112: Staircase_Room_Floor
+    2300114: Hatch_002
+    2300116: Hatch_003
+    2300118: Hatch_004
+    2300120: Hatch_Door_001
+    2300122: Hatch_Door_002
+    2300124: Hatch_Door_003
+    2300126: Hatch_Door_004
+    2300128: Hatch_Door_005
+    2300130: Hatch_Door_006
+    2300132: Hatch_Door_007
+    2300134: Hatch_Door_008
+    2300136: Hatch_Door_000
+    2300138: Hatch_Door_009
     3300000: Plane_MeshPart0
     3300002: Plane_MeshPart1
     3300004: Plane_MeshPart2
@@ -199,6 +270,29 @@ ModelImporter:
     3300088: Plane
     3300090: Size_Body
     3300092: Size_High-poly
+    3300094: Hatch
+    3300096: Hatch_001
+    3300098: Cargo_Area_MeshPart0
+    3300100: Cargo_Area_MeshPart1
+    3300102: Cargo_Area_MeshPart2
+    3300104: Cargo_Area_MeshPart3
+    3300106: Cargo_Area_Wall
+    3300108: Cube
+    3300110: Hatch_Door
+    3300112: Staircase_Room_Floor
+    3300114: Hatch_002
+    3300116: Hatch_003
+    3300118: Hatch_004
+    3300120: Hatch_Door_001
+    3300122: Hatch_Door_002
+    3300124: Hatch_Door_003
+    3300126: Hatch_Door_004
+    3300128: Hatch_Door_005
+    3300130: Hatch_Door_006
+    3300132: Hatch_Door_007
+    3300134: Hatch_Door_008
+    3300136: Hatch_Door_000
+    3300138: Hatch_Door_009
     4300000: Plane_MeshPart0
     4300002: Plane_MeshPart1
     4300004: Plane_MeshPart2
@@ -245,6 +339,29 @@ ModelImporter:
     4300086: Hallway_001_MeshPart2
     4300088: Size_Body
     4300090: Size_High-poly
+    4300092: Hatch_001
+    4300094: Hatch
+    4300096: Cube
+    4300098: Staircase_Room_Floor
+    4300100: Cargo_Area_Wall
+    4300102: Hatch_Door
+    4300104: Cargo_Area_MeshPart0
+    4300106: Cargo_Area_MeshPart1
+    4300108: Cargo_Area_MeshPart2
+    4300110: Cargo_Area_MeshPart3
+    4300112: Hatch_Door_008
+    4300114: Hatch_Door_007
+    4300116: Hatch_Door_006
+    4300118: Hatch_Door_005
+    4300120: Hatch_Door_004
+    4300122: Hatch_Door_003
+    4300124: Hatch_Door_002
+    4300126: Hatch_Door_001
+    4300128: Hatch_004
+    4300130: Hatch_003
+    4300132: Hatch_002
+    4300134: Hatch_Door_000
+    4300136: Hatch_Door_009
     6400000: Plane_MeshPart0
     6400002: Plane_MeshPart1
     6400004: Plane_MeshPart2
@@ -291,6 +408,29 @@ ModelImporter:
     6400086: Plane
     6400088: Size_Body
     6400090: Size_High-poly
+    6400092: Hatch
+    6400094: Hatch_001
+    6400096: Cargo_Area_MeshPart0
+    6400098: Cargo_Area_MeshPart1
+    6400100: Cargo_Area_MeshPart2
+    6400102: Cargo_Area_MeshPart3
+    6400104: Cargo_Area_Wall
+    6400106: Cube
+    6400108: Hatch_Door
+    6400110: Staircase_Room_Floor
+    6400112: Hatch_002
+    6400114: Hatch_003
+    6400116: Hatch_004
+    6400118: Hatch_Door_001
+    6400120: Hatch_Door_002
+    6400122: Hatch_Door_003
+    6400124: Hatch_Door_004
+    6400126: Hatch_Door_005
+    6400128: Hatch_Door_006
+    6400130: Hatch_Door_007
+    6400132: Hatch_Door_008
+    6400134: Hatch_Door_000
+    6400136: Hatch_Door_009
     7400000: Default Take
     9500000: //RootNode
   materials:
