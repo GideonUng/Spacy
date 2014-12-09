@@ -8,31 +8,43 @@ public class PlayerMovement : MonoBehaviour
 	public bool canAim = false;
 
 	private Transform cameraPosition;
-	private Animator anim;
-	
+	public Animator anim;
+
 	void Start()
 	{
 		cameraPosition = GameObject.FindGameObjectWithTag("MainCamera").transform;
-		anim = GetComponent<Animator>();
+		//anim = GetComponent<Animator>();
 	}
-	
-	void FixedUpdate ()
-	{		
-		if (!anim.GetBool("Dead")){
+
+	void FixedUpdate()
+	{
+		if (anim == null)
+		{
+			Debug.Log("No animator Found");
+			return;
+		}
+		if (!anim.GetBool("Dead"))
+		{
 			bool aiming = Input.GetButton("Aim");
 			float h = Input.GetAxis("Horizontal");
 			float v = Input.GetAxis("Vertical");
 			bool sneak = Input.GetButton("Sneak");
 			float run = Input.GetAxis("Run");
 
-			if(!canAim){
+			if (!canAim)
+			{
 				MovementManagement(h, v, sneak, run);
-			} else {
-				anim.SetBool("Aiming", aiming); 
+			}
+			else
+			{
+				anim.SetBool("Aiming", aiming);
 
-				if(aiming){
+				if (aiming)
+				{
 					StraiveMoveManagement(h, v, sneak, run);
-				} else {
+				}
+				else
+				{
 					MovementManagement(h, v, sneak, run);
 				}
 			}
@@ -44,14 +56,17 @@ public class PlayerMovement : MonoBehaviour
 		}
 	}
 
-	void MovementManagement (float horizontal, float vertical, bool sneaking, float run)
+	void MovementManagement(float horizontal, float vertical, bool sneaking, float run)
 	{
 		anim.SetBool("Sneaking", sneaking);
-		
-		if(horizontal != 0f || vertical != 0f){
+
+		if (horizontal != 0f || vertical != 0f)
+		{
 			Rotating(horizontal, vertical);
-			anim.SetFloat("Speed", 1 + run*5, speedDampTime, Time.deltaTime);
-		} else {
+			anim.SetFloat("Speed", 1 + run * 5, speedDampTime, Time.deltaTime);
+		}
+		else
+		{
 			anim.SetFloat("Speed", 0);
 		}
 	}
@@ -66,8 +81,8 @@ public class PlayerMovement : MonoBehaviour
 			transform.rotation = Quaternion.AngleAxis(cameraPosition.transform.rotation.eulerAngles.y, Vector3.up);
 		}
 	}
-	
-	void Rotating (float horizontal, float vertical)
+
+	void Rotating(float horizontal, float vertical)
 	{
 		Vector3 targetDirection = new Vector3(horizontal, 0f, vertical);
 		targetDirection = Quaternion.AngleAxis(cameraPosition.eulerAngles.y, Vector3.up) * targetDirection;
