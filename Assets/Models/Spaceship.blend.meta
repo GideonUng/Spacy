@@ -78,6 +78,41 @@ ModelImporter:
     100144: Hatch_Door_008
     100146: Hatch_Door_000
     100148: Hatch_Door_009
+    100150: Cylinder
+    100152: Room_Door
+    100154: Room_Main_1
+    100156: Room_Wall_1
+    100158: Room_Wall_2
+    100160: Hallway_002
+    100162: Hallway_003
+    100164: Hallway_003_MeshPart0
+    100166: Hallway_003_MeshPart1
+    100168: Hallway_004
+    100170: Hallway_005
+    100172: Hallway_006
+    100174: Hallway_006_MeshPart0
+    100176: Hallway_006_MeshPart1
+    100178: Hallway_007
+    100180: Room_Door_001
+    100182: Room_Door_007
+    100184: Room_Main_1_001
+    100186: Room_Main_1_002
+    100188: Room_Main_1_003
+    100190: Room_Main_1_004
+    100192: Room_Main_1_005
+    100194: Room_Main_1_006
+    100196: Room_Wall_1_001
+    100198: Room_Wall_1_002
+    100200: Room_Wall_2_001
+    100202: Room_Wall_2_002
+    100204: Hatch_005
+    100206: Hatch_006
+    100208: Hatch_007
+    100210: Hatch_Door_010
+    100212: Hatch_Door_011
+    100214: Hatch_Door_012
+    100216: Hatch_Door_013
+    100218: Hatch_Door_014
     400000: Plane_MeshPart0
     400002: Plane_MeshPart1
     400004: Plane_MeshPart2
@@ -153,6 +188,41 @@ ModelImporter:
     400144: Hatch_Door_008
     400146: Hatch_Door_000
     400148: Hatch_Door_009
+    400150: Cylinder
+    400152: Room_Door
+    400154: Room_Main_1
+    400156: Room_Wall_1
+    400158: Room_Wall_2
+    400160: Hallway_002
+    400162: Hallway_003
+    400164: Hallway_003_MeshPart0
+    400166: Hallway_003_MeshPart1
+    400168: Hallway_004
+    400170: Hallway_005
+    400172: Hallway_006
+    400174: Hallway_006_MeshPart0
+    400176: Hallway_006_MeshPart1
+    400178: Hallway_007
+    400180: Room_Door_001
+    400182: Room_Door_007
+    400184: Room_Main_1_001
+    400186: Room_Main_1_002
+    400188: Room_Main_1_003
+    400190: Room_Main_1_004
+    400192: Room_Main_1_005
+    400194: Room_Main_1_006
+    400196: Room_Wall_1_001
+    400198: Room_Wall_1_002
+    400200: Room_Wall_2_001
+    400202: Room_Wall_2_002
+    400204: Hatch_005
+    400206: Hatch_006
+    400208: Hatch_007
+    400210: Hatch_Door_010
+    400212: Hatch_Door_011
+    400214: Hatch_Door_012
+    400216: Hatch_Door_013
+    400218: Hatch_Door_014
     2300000: Plane_MeshPart0
     2300002: Plane_MeshPart1
     2300004: Plane_MeshPart2
@@ -223,6 +293,40 @@ ModelImporter:
     2300134: Hatch_Door_008
     2300136: Hatch_Door_000
     2300138: Hatch_Door_009
+    2300140: Cylinder
+    2300142: Room_Door
+    2300144: Room_Main_1
+    2300146: Room_Wall_1
+    2300148: Room_Wall_2
+    2300150: Hallway_001
+    2300152: Hallway_002
+    2300154: Hallway_003_MeshPart0
+    2300156: Hallway_003_MeshPart1
+    2300158: Hallway_004
+    2300160: Hallway_005
+    2300162: Hallway_006_MeshPart0
+    2300164: Hallway_006_MeshPart1
+    2300166: Hallway_007
+    2300168: Room_Door_001
+    2300170: Room_Door_007
+    2300172: Room_Main_1_001
+    2300174: Room_Main_1_002
+    2300176: Room_Main_1_003
+    2300178: Room_Main_1_004
+    2300180: Room_Main_1_005
+    2300182: Room_Main_1_006
+    2300184: Room_Wall_1_001
+    2300186: Room_Wall_1_002
+    2300188: Room_Wall_2_001
+    2300190: Room_Wall_2_002
+    2300192: Hatch_005
+    2300194: Hatch_006
+    2300196: Hatch_007
+    2300198: Hatch_Door_010
+    2300200: Hatch_Door_011
+    2300202: Hatch_Door_012
+    2300204: Hatch_Door_013
+    2300206: Hatch_Door_014
     3300000: Plane_MeshPart0
     3300002: Plane_MeshPart1
     3300004: Plane_MeshPart2
@@ -293,6 +397,40 @@ ModelImporter:
     3300134: Hatch_Door_008
     3300136: Hatch_Door_000
     3300138: Hatch_Door_009
+    3300140: Cylinder
+    3300142: Room_Door
+    3300144: Room_Main_1
+    3300146: Room_Wall_1
+    3300148: Room_Wall_2
+    3300150: Hallway_001
+    3300152: Hallway_002
+    3300154: Hallway_003_MeshPart0
+    3300156: Hallway_003_MeshPart1
+    3300158: Hallway_004
+    3300160: Hallway_005
+    3300162: Hallway_006_MeshPart0
+    3300164: Hallway_006_MeshPart1
+    3300166: Hallway_007
+    3300168: Room_Door_001
+    3300170: Room_Door_007
+    3300172: Room_Main_1_001
+    3300174: Room_Main_1_002
+    3300176: Room_Main_1_003
+    3300178: Room_Main_1_004
+    3300180: Room_Main_1_005
+    3300182: Room_Main_1_006
+    3300184: Room_Wall_1_001
+    3300186: Room_Wall_1_002
+    3300188: Room_Wall_2_001
+    3300190: Room_Wall_2_002
+    3300192: Hatch_005
+    3300194: Hatch_006
+    3300196: Hatch_007
+    3300198: Hatch_Door_010
+    3300200: Hatch_Door_011
+    3300202: Hatch_Door_012
+    3300204: Hatch_Door_013
+    3300206: Hatch_Door_014
     4300000: Plane_MeshPart0
     4300002: Plane_MeshPart1
     4300004: Plane_MeshPart2
@@ -362,6 +500,40 @@ ModelImporter:
     4300132: Hatch_002
     4300134: Hatch_Door_000
     4300136: Hatch_Door_009
+    4300138: Room_Door
+    4300140: Room_Wall_1
+    4300142: Room_Wall_2
+    4300144: Cylinder
+    4300146: Room_Main_1
+    4300148: Hallway_007
+    4300150: Hallway_006_MeshPart0
+    4300152: Hallway_006_MeshPart1
+    4300154: Room_Wall_2_002
+    4300156: Room_Wall_1_002
+    4300158: Room_Main_1_006
+    4300160: Room_Main_1_005
+    4300162: Room_Main_1_004
+    4300164: Room_Main_1_003
+    4300166: Room_Main_1_002
+    4300168: Room_Main_1_001
+    4300170: Room_Wall_2_001
+    4300172: Room_Wall_1_001
+    4300174: Room_Door_007
+    4300176: Room_Door_001
+    4300178: Hallway_005
+    4300180: Hallway_004
+    4300182: Hallway_003_MeshPart0
+    4300184: Hallway_003_MeshPart1
+    4300186: Hallway_002
+    4300188: Hallway_001
+    4300190: Hatch_007
+    4300192: Hatch_Door_014
+    4300194: Hatch_Door_013
+    4300196: Hatch_Door_012
+    4300198: Hatch_Door_011
+    4300200: Hatch_006
+    4300202: Hatch_005
+    4300204: Hatch_Door_010
     6400000: Plane_MeshPart0
     6400002: Plane_MeshPart1
     6400004: Plane_MeshPart2
@@ -431,6 +603,40 @@ ModelImporter:
     6400132: Hatch_Door_008
     6400134: Hatch_Door_000
     6400136: Hatch_Door_009
+    6400138: Cylinder
+    6400140: Room_Door
+    6400142: Room_Main_1
+    6400144: Room_Wall_1
+    6400146: Room_Wall_2
+    6400148: Hallway_001
+    6400150: Hallway_002
+    6400152: Hallway_003_MeshPart0
+    6400154: Hallway_003_MeshPart1
+    6400156: Hallway_004
+    6400158: Hallway_005
+    6400160: Hallway_006_MeshPart0
+    6400162: Hallway_006_MeshPart1
+    6400164: Hallway_007
+    6400166: Room_Door_001
+    6400168: Room_Door_007
+    6400170: Room_Main_1_001
+    6400172: Room_Main_1_002
+    6400174: Room_Main_1_003
+    6400176: Room_Main_1_004
+    6400178: Room_Main_1_005
+    6400180: Room_Main_1_006
+    6400182: Room_Wall_1_001
+    6400184: Room_Wall_1_002
+    6400186: Room_Wall_2_001
+    6400188: Room_Wall_2_002
+    6400190: Hatch_005
+    6400192: Hatch_006
+    6400194: Hatch_007
+    6400196: Hatch_Door_010
+    6400198: Hatch_Door_011
+    6400200: Hatch_Door_012
+    6400202: Hatch_Door_013
+    6400204: Hatch_Door_014
     7400000: Default Take
     9500000: //RootNode
   materials:
