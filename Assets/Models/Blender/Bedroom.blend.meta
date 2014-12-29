@@ -22,6 +22,20 @@ ModelImporter:
     100032: Cube_007
     100034: Cube_008
     100036: Cube_009
+    100038: Door
+    100040: DoorFrame
+    100042: Blanket
+    100044: Chair
+    100046: Chair_001
+    100048: Desk
+    100050: Pillow
+    100052: Pillow_001
+    100054: Pillow_002
+    100056: Pillow_003
+    100058: Pillow_004
+    100060: CeilingLamp
+    100062: CeilingLamp_001
+    100064: CeilingLamp_002
     400000: //RootNode
     400002: Human
     400004: Plane
@@ -41,6 +55,20 @@ ModelImporter:
     400032: Cube_007
     400034: Cube_008
     400036: Cube_009
+    400038: Door
+    400040: DoorFrame
+    400042: Blanket
+    400044: Chair
+    400046: Chair_001
+    400048: Desk
+    400050: Pillow
+    400052: Pillow_001
+    400054: Pillow_002
+    400056: Pillow_003
+    400058: Pillow_004
+    400060: CeilingLamp
+    400062: CeilingLamp_001
+    400064: CeilingLamp_002
     2300000: Human
     2300002: Plane
     2300004: Plane_001
@@ -59,6 +87,20 @@ ModelImporter:
     2300030: Cube_007
     2300032: Cube_008
     2300034: Cube_009
+    2300036: Door
+    2300038: DoorFrame
+    2300040: Blanket
+    2300042: Chair
+    2300044: Chair_001
+    2300046: Desk
+    2300048: Pillow
+    2300050: Pillow_001
+    2300052: Pillow_002
+    2300054: Pillow_003
+    2300056: Pillow_004
+    2300058: CeilingLamp
+    2300060: CeilingLamp_001
+    2300062: CeilingLamp_002
     3300000: Human
     3300002: Plane
     3300004: Plane_001
@@ -77,6 +119,20 @@ ModelImporter:
     3300030: Cube_007
     3300032: Cube_008
     3300034: Cube_009
+    3300036: Door
+    3300038: DoorFrame
+    3300040: Blanket
+    3300042: Chair
+    3300044: Chair_001
+    3300046: Desk
+    3300048: Pillow
+    3300050: Pillow_001
+    3300052: Pillow_002
+    3300054: Pillow_003
+    3300056: Pillow_004
+    3300058: CeilingLamp
+    3300060: CeilingLamp_001
+    3300062: CeilingLamp_002
     4300000: Plane
     4300002: Human
     4300004: Plane_001
@@ -95,6 +151,20 @@ ModelImporter:
     4300030: Cube_007
     4300032: Cube_008
     4300034: Cube_009
+    4300036: Door
+    4300038: DoorFrame
+    4300040: Chair
+    4300042: Chair_001
+    4300044: Desk
+    4300046: Pillow_003
+    4300048: Pillow_002
+    4300050: Pillow
+    4300052: Pillow_004
+    4300054: Pillow_001
+    4300056: Blanket
+    4300058: CeilingLamp
+    4300060: CeilingLamp_001
+    4300062: CeilingLamp_002
     6400000: Human
     6400002: Plane
     6400004: Plane_001
@@ -113,8 +183,25 @@ ModelImporter:
     6400030: Cube_007
     6400032: Cube_008
     6400034: Cube_009
-    7400000: Default Take
+    6400036: Door
+    6400038: DoorFrame
+    6400040: Blanket
+    6400042: Chair
+    6400044: Chair_001
+    6400046: Desk
+    6400048: Pillow
+    6400050: Pillow_001
+    6400052: Pillow_002
+    6400054: Pillow_003
+    6400056: Pillow_004
+    6400058: CeilingLamp
+    6400060: CeilingLamp_001
+    6400062: CeilingLamp_002
+    7400000: DoorOpen
+    7400002: 
+    7400004: Default Take
     9500000: //RootNode
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
@@ -124,7 +211,7 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
-    animationCompression: 1
+    animationCompression: 3
     animationRotationError: .5
     animationPositionError: .5
     animationScaleError: .5
@@ -152,7 +239,7 @@ ModelImporter:
     splitTangentsAcrossUV: 1
     normalImportMode: 0
     tangentImportMode: 1
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     human: []
