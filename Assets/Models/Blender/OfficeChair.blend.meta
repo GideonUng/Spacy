@@ -1,28 +1,42 @@
 fileFormatVersion: 2
-guid: 7668124519d21604883d3158f8f2c34b
+guid: c50c8e038ddc3af468cee0aebb50a41a
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Human
-    100004: Plane
-    100006: BorderConcept
-    400000: //RootNode
-    400002: Human
-    400004: Plane
-    400006: BorderConcept
-    2300000: Human
-    2300002: Plane
-    2300004: BorderConcept
-    3300000: Human
-    3300002: Plane
-    3300004: BorderConcept
-    4300000: Plane
-    4300002: Human
-    4300004: BorderConcept
-    6400000: Human
-    6400002: Plane
-    6400004: BorderConcept
+    100000: ChairCylinder
+    100002: ChairSeat
+    100004: ChairSeat_001
+    100006: ChairSeat_002
+    100008: CheirFeet
+    100010: Empty
+    100012: Human
+    100014: //RootNode
+    400000: ChairCylinder
+    400002: ChairSeat
+    400004: ChairSeat_001
+    400006: ChairSeat_002
+    400008: CheirFeet
+    400010: Empty
+    400012: Human
+    400014: //RootNode
+    2300000: ChairCylinder
+    2300002: ChairSeat
+    2300004: ChairSeat_001
+    2300006: ChairSeat_002
+    2300008: CheirFeet
+    2300010: Human
+    3300000: ChairCylinder
+    3300002: ChairSeat
+    3300004: ChairSeat_001
+    3300006: ChairSeat_002
+    3300008: CheirFeet
+    3300010: Human
+    4300000: ChairSeat_002
+    4300002: ChairSeat_001
+    4300004: ChairSeat
+    4300006: ChairCylinder
+    4300008: Human
+    4300010: CheirFeet
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -46,7 +60,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
