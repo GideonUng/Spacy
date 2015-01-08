@@ -1,49 +1,24 @@
 fileFormatVersion: 2
-guid: b3bda4ade337354428c2b187d4c1a32f
+guid: 91d17988c29aff545aa98be8461bd0d5
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Door
+    100002: Human
     100004: Plane
-    100006: Plane_001
-    100008: Door1
-    100010: Door2
-    100012: DoorFrame
     400000: //RootNode
-    400002: Door
+    400002: Human
     400004: Plane
-    400006: Plane_001
-    400008: Door1
-    400010: Door2
-    400012: DoorFrame
-    2300000: //RootNode
-    2300002: Door
-    2300004: Plane
-    2300006: Plane_001
-    2300008: Door1
-    2300010: Door2
-    2300012: DoorFrame
-    3300000: //RootNode
-    3300002: Door
-    3300004: Plane
-    3300006: Plane_001
-    3300008: Door1
-    3300010: Door2
-    3300012: DoorFrame
-    4300000: Door
-    4300002: Plane_001
-    4300004: Plane
-    4300006: Door2
-    4300008: Door1
-    4300010: DoorFrame
+    2300000: Human
+    2300002: Plane
+    2300004: //RootNode
+    3300000: Human
+    3300002: Plane
+    3300004: //RootNode
+    4300000: Human
+    4300002: Plane
+    4300004: Hallway
     6400000: //RootNode
-    6400002: Door
-    6400004: Plane
-    6400006: Plane_001
-    6400008: Door1
-    6400010: Door2
-    6400012: DoorFrame
     7400000: Default Take
     9500000: //RootNode
   materials:
