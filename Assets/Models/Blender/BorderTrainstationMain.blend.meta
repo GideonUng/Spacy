@@ -55,6 +55,34 @@ ModelImporter:
     100098: TrainstationDoorway_037
     100100: TrainstationDoorway_038
     100102: TrainstationDoorway_039
+    100104: Plane_001
+    100106: Plane_002
+    100108: TrainstationDoorway_040
+    100110: TrainstationDoorway_041
+    100112: TrainstationDoorway_042
+    100114: Plane_003
+    100116: Plane_004
+    100118: Plane_005
+    100120: Plane_006
+    100122: Plane_007
+    100124: Plane_008
+    100126: Plane_009
+    100128: TrainstationDoorway_043
+    100130: TrainstationDoorway_044
+    100132: TrainstationDoorway_045
+    100134: TrainstationDoorway_046
+    100136: TrainstationDoorway_047
+    100138: TrainstationDoorway_048
+    100140: TrainstationDoorway_049
+    100142: TrainstationDoorway_050
+    100144: TrainstationDoorway_051
+    100146: TrainstationDoorway_052
+    100148: TrainstationDoorway_053
+    100150: TrainstationDoorway_054
+    100152: TrainstationDoorway_055
+    100154: TrainstationDoorway_056
+    100156: Plane_010
+    100158: Ceiling_001
     400000: BorderConcept
     400002: //RootNode
     400004: Human
@@ -107,6 +135,34 @@ ModelImporter:
     400098: TrainstationDoorway_037
     400100: TrainstationDoorway_038
     400102: TrainstationDoorway_039
+    400104: Plane_001
+    400106: Plane_002
+    400108: TrainstationDoorway_040
+    400110: TrainstationDoorway_041
+    400112: TrainstationDoorway_042
+    400114: Plane_003
+    400116: Plane_004
+    400118: Plane_005
+    400120: Plane_006
+    400122: Plane_007
+    400124: Plane_008
+    400126: Plane_009
+    400128: TrainstationDoorway_043
+    400130: TrainstationDoorway_044
+    400132: TrainstationDoorway_045
+    400134: TrainstationDoorway_046
+    400136: TrainstationDoorway_047
+    400138: TrainstationDoorway_048
+    400140: TrainstationDoorway_049
+    400142: TrainstationDoorway_050
+    400144: TrainstationDoorway_051
+    400146: TrainstationDoorway_052
+    400148: TrainstationDoorway_053
+    400150: TrainstationDoorway_054
+    400152: TrainstationDoorway_055
+    400154: TrainstationDoorway_056
+    400156: Plane_010
+    400158: Ceiling_001
     2300000: BorderConcept
     2300002: Human
     2300004: Plane
@@ -158,6 +214,34 @@ ModelImporter:
     2300096: TrainstationDoorway_037
     2300098: TrainstationDoorway_038
     2300100: TrainstationDoorway_039
+    2300102: Plane_001
+    2300104: Plane_002
+    2300106: TrainstationDoorway_040
+    2300108: TrainstationDoorway_041
+    2300110: TrainstationDoorway_042
+    2300112: Plane_003
+    2300114: Plane_004
+    2300116: Plane_005
+    2300118: Plane_006
+    2300120: Plane_007
+    2300122: Plane_008
+    2300124: Plane_009
+    2300126: TrainstationDoorway_043
+    2300128: TrainstationDoorway_044
+    2300130: TrainstationDoorway_045
+    2300132: TrainstationDoorway_046
+    2300134: TrainstationDoorway_047
+    2300136: TrainstationDoorway_048
+    2300138: TrainstationDoorway_049
+    2300140: TrainstationDoorway_050
+    2300142: TrainstationDoorway_051
+    2300144: TrainstationDoorway_052
+    2300146: TrainstationDoorway_053
+    2300148: TrainstationDoorway_054
+    2300150: TrainstationDoorway_055
+    2300152: TrainstationDoorway_056
+    2300154: Plane_010
+    2300156: Ceiling_001
     3300000: BorderConcept
     3300002: Human
     3300004: Plane
@@ -209,6 +293,34 @@ ModelImporter:
     3300096: TrainstationDoorway_037
     3300098: TrainstationDoorway_038
     3300100: TrainstationDoorway_039
+    3300102: Plane_001
+    3300104: Plane_002
+    3300106: TrainstationDoorway_040
+    3300108: TrainstationDoorway_041
+    3300110: TrainstationDoorway_042
+    3300112: Plane_003
+    3300114: Plane_004
+    3300116: Plane_005
+    3300118: Plane_006
+    3300120: Plane_007
+    3300122: Plane_008
+    3300124: Plane_009
+    3300126: TrainstationDoorway_043
+    3300128: TrainstationDoorway_044
+    3300130: TrainstationDoorway_045
+    3300132: TrainstationDoorway_046
+    3300134: TrainstationDoorway_047
+    3300136: TrainstationDoorway_048
+    3300138: TrainstationDoorway_049
+    3300140: TrainstationDoorway_050
+    3300142: TrainstationDoorway_051
+    3300144: TrainstationDoorway_052
+    3300146: TrainstationDoorway_053
+    3300148: TrainstationDoorway_054
+    3300150: TrainstationDoorway_055
+    3300152: TrainstationDoorway_056
+    3300154: Plane_010
+    3300156: Ceiling_001
     4300000: Plane
     4300002: Human
     4300004: BorderConcept
@@ -260,6 +372,34 @@ ModelImporter:
     4300096: TrainstationDoorway_026
     4300098: TrainstationDoorway_025
     4300100: TrainstationDoorway_024
+    4300102: Plane_001
+    4300104: Plane_002
+    4300106: TrainstationDoorway_042
+    4300108: TrainstationDoorway_041
+    4300110: TrainstationDoorway_040
+    4300112: Plane_009
+    4300114: TrainstationDoorway_056
+    4300116: TrainstationDoorway_055
+    4300118: TrainstationDoorway_054
+    4300120: TrainstationDoorway_053
+    4300122: TrainstationDoorway_052
+    4300124: TrainstationDoorway_051
+    4300126: TrainstationDoorway_050
+    4300128: TrainstationDoorway_049
+    4300130: TrainstationDoorway_048
+    4300132: TrainstationDoorway_047
+    4300134: TrainstationDoorway_046
+    4300136: TrainstationDoorway_045
+    4300138: TrainstationDoorway_044
+    4300140: TrainstationDoorway_043
+    4300142: Plane_008
+    4300144: Plane_007
+    4300146: Plane_006
+    4300148: Plane_005
+    4300150: Plane_004
+    4300152: Plane_003
+    4300154: Plane_010
+    4300156: Ceiling_001
     6400000: BorderConcept
     6400002: Human
     6400004: Plane
@@ -311,6 +451,34 @@ ModelImporter:
     6400096: TrainstationDoorway_037
     6400098: TrainstationDoorway_038
     6400100: TrainstationDoorway_039
+    6400102: Plane_001
+    6400104: Plane_002
+    6400106: TrainstationDoorway_040
+    6400108: TrainstationDoorway_041
+    6400110: TrainstationDoorway_042
+    6400112: Plane_003
+    6400114: Plane_004
+    6400116: Plane_005
+    6400118: Plane_006
+    6400120: Plane_007
+    6400122: Plane_008
+    6400124: Plane_009
+    6400126: TrainstationDoorway_043
+    6400128: TrainstationDoorway_044
+    6400130: TrainstationDoorway_045
+    6400132: TrainstationDoorway_046
+    6400134: TrainstationDoorway_047
+    6400136: TrainstationDoorway_048
+    6400138: TrainstationDoorway_049
+    6400140: TrainstationDoorway_050
+    6400142: TrainstationDoorway_051
+    6400144: TrainstationDoorway_052
+    6400146: TrainstationDoorway_053
+    6400148: TrainstationDoorway_054
+    6400150: TrainstationDoorway_055
+    6400152: TrainstationDoorway_056
+    6400154: Plane_010
+    6400156: Ceiling_001
     7400000: Default Take
     9500000: //RootNode
   materials:
