@@ -88,6 +88,11 @@ ModelImporter:
     100164: CeilingPlatform
     100166: PlatfomrEnd1
     100168: PlatformEnd2
+    100170: PlatformCeiling
+    100172: PlatformDoorway
+    100174: PlatformTracks
+    100176: PlatformTrainTracks
+    100178: PlatformWall
     400000: BorderConcept
     400002: //RootNode
     400004: Human
@@ -173,6 +178,11 @@ ModelImporter:
     400164: CeilingPlatform
     400166: PlatfomrEnd1
     400168: PlatformEnd2
+    400170: PlatformCeiling
+    400172: PlatformDoorway
+    400174: PlatformTracks
+    400176: PlatformTrainTracks
+    400178: PlatformWall
     2300000: BorderConcept
     2300002: Human
     2300004: Plane
@@ -257,6 +267,11 @@ ModelImporter:
     2300162: CeilingPlatform
     2300164: PlatfomrEnd1
     2300166: PlatformEnd2
+    2300168: PlatformCeiling
+    2300170: PlatformDoorway
+    2300172: PlatformTracks
+    2300174: PlatformTrainTracks
+    2300176: PlatformWall
     3300000: BorderConcept
     3300002: Human
     3300004: Plane
@@ -341,6 +356,11 @@ ModelImporter:
     3300162: CeilingPlatform
     3300164: PlatfomrEnd1
     3300166: PlatformEnd2
+    3300168: PlatformCeiling
+    3300170: PlatformDoorway
+    3300172: PlatformTracks
+    3300174: PlatformTrainTracks
+    3300176: PlatformWall
     4300000: Plane
     4300002: Human
     4300004: BorderConcept
@@ -425,6 +445,11 @@ ModelImporter:
     4300162: PlatformEnd2
     4300164: PlatfomrEnd1
     4300166: a
+    4300168: PlatformTrainTracks
+    4300170: PlatformCeiling
+    4300172: PlatformTracks
+    4300174: PlatformWall
+    4300176: PlatformDoorway
     6400000: BorderConcept
     6400002: Human
     6400004: Plane
@@ -509,6 +534,11 @@ ModelImporter:
     6400162: CeilingPlatform
     6400164: PlatfomrEnd1
     6400166: PlatformEnd2
+    6400168: PlatformCeiling
+    6400170: PlatformDoorway
+    6400172: PlatformTracks
+    6400174: PlatformTrainTracks
+    6400176: PlatformWall
     7400000: Default Take
     9500000: //RootNode
   materials:

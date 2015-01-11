@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: 122f7de280e84c94ebfeb668034c0481
+guid: 2f124b5f4f6622b4bb63a151177ec580
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Hallway
+    100004: Hallway_001
     400000: //RootNode
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Sphere
+    400002: Hallway
+    400004: Hallway_001
+    2300000: Hallway
+    2300002: Hallway_001
+    2300004: //RootNode
+    3300000: Hallway
+    3300002: Hallway_001
+    3300004: //RootNode
+    4300000: Hallway_001
+    4300002: Hallway
+    6400000: //RootNode
+    6400002: Hallway
+    6400004: Hallway_001
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -29,9 +41,9 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: 100
+    globalScale: 1
     meshCompression: 0
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
