@@ -35,6 +35,7 @@ ModelImporter:
     100058: PlatformWall_017
     100060: //RootNode
     100062: PlatformCorridor
+    100064: PlatfomrEnd1_001
     400000: PlatfomrEnd1
     400002: PlatformCeiling
     400004: PlatformDoorway
@@ -67,6 +68,7 @@ ModelImporter:
     400058: PlatformWall_017
     400060: //RootNode
     400062: PlatformCorridor
+    400064: PlatfomrEnd1_001
     2300000: PlatfomrEnd1
     2300002: PlatformCeiling
     2300004: PlatformDoorway
@@ -98,6 +100,7 @@ ModelImporter:
     2300056: PlatformWall_016
     2300058: PlatformWall_017
     2300060: PlatformCorridor
+    2300062: PlatfomrEnd1_001
     3300000: PlatfomrEnd1
     3300002: PlatformCeiling
     3300004: PlatformDoorway
@@ -129,6 +132,7 @@ ModelImporter:
     3300056: PlatformWall_016
     3300058: PlatformWall_017
     3300060: PlatformCorridor
+    3300062: PlatfomrEnd1_001
     4300000: PlatformTracks_006
     4300002: PlatformTracks_005
     4300004: PlatformTracks_004
@@ -160,6 +164,7 @@ ModelImporter:
     4300056: PlatformWall
     4300058: PlatformCeiling
     4300060: PlatformCorridor
+    4300062: PlatfomrEnd1_001
     6400000: PlatfomrEnd1
     6400002: PlatformCeiling
     6400004: PlatformCorridor
@@ -191,6 +196,7 @@ ModelImporter:
     6400056: PlatformWall_015
     6400058: PlatformWall_016
     6400060: PlatformWall_017
+    6400062: PlatfomrEnd1_001
     7400000: Default Take
     9500000: //RootNode
   materials:
