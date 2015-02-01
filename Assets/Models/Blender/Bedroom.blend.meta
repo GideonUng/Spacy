@@ -36,6 +36,7 @@ ModelImporter:
     100060: CeilingLamp
     100062: CeilingLamp_001
     100064: CeilingLamp_002
+    100066: UCX_Bedroom
     400000: //RootNode
     400002: Human
     400004: Plane
@@ -69,6 +70,7 @@ ModelImporter:
     400060: CeilingLamp
     400062: CeilingLamp_001
     400064: CeilingLamp_002
+    400066: UCX_Bedroom
     2300000: Human
     2300002: Plane
     2300004: Plane_001
@@ -101,6 +103,7 @@ ModelImporter:
     2300058: CeilingLamp
     2300060: CeilingLamp_001
     2300062: CeilingLamp_002
+    2300064: UCX_Bedroom
     3300000: Human
     3300002: Plane
     3300004: Plane_001
@@ -133,6 +136,7 @@ ModelImporter:
     3300058: CeilingLamp
     3300060: CeilingLamp_001
     3300062: CeilingLamp_002
+    3300064: UCX_Bedroom
     4300000: Plane
     4300002: Human
     4300004: Plane_001
@@ -165,6 +169,7 @@ ModelImporter:
     4300058: CeilingLamp
     4300060: CeilingLamp_001
     4300062: CeilingLamp_002
+    4300064: UCX_Bedroom
     6400000: Human
     6400002: Plane
     6400004: Plane_001
@@ -197,6 +202,7 @@ ModelImporter:
     6400058: CeilingLamp
     6400060: CeilingLamp_001
     6400062: CeilingLamp_002
+    6400064: UCX_Bedroom
     7400000: DoorOpen
     7400002: 
     7400004: Default Take
