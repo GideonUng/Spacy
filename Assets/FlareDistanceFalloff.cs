@@ -3,18 +3,19 @@ using System.Collections;
 
 public class FlareDistanceFalloff : MonoBehaviour
 {
+    public float size = 3.0f;
 
-    private GameObject mainCamera;
-    private LensFlare flare;
-
-    void Start()
+    void Update()
     {
-        mainCamera = GameObject.FindGameObjectWithTag("MainCamera");
-        flare = GetComponent<LensFlare>();
-    }
+        float ratio = Mathf.Pow(Vector3.Distance(transform.position, Camera.main.transform.position), 1f);
 
-    void LateUpdate()
-    {
-        flare.brightness = 100 - (transform.position - mainCamera.transform.position).magnitude;
+        ratio = Mathf.Clamp(ratio, size, 100);
+
+        GetComponent<LensFlare>().brightness = size / ratio;
+
+        if (GetComponent<LensFlare>().brightness <= 0.2)
+        {
+            GetComponent<LensFlare>().brightness = 0;
+        }
     }
 }
