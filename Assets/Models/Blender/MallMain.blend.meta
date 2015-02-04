@@ -10,6 +10,35 @@ ModelImporter:
     100008: Wall01
     100010: Wall01_001
     100012: Wall01_002
+    100014: Cube
+    100016: Cube_MeshPart0
+    100018: Cube_MeshPart1
+    100020: Cube_000
+    100022: Cube_000_MeshPart0
+    100024: Cube_000_MeshPart1
+    100026: Cube_001
+    100028: Cube_001_MeshPart0
+    100030: Cube_001_MeshPart1
+    100032: Cube_002
+    100034: Cube_002_MeshPart0
+    100036: Cube_002_MeshPart1
+    100038: Plane_003
+    100040: DoorBottom
+    100042: Floor
+    100044: StoreEntranceBottom
+    100046: StoreEntranceTop
+    100048: StoreEntranceTop_001
+    100050: StoreSealBottom
+    100052: StoreSealBottom_MeshPart0
+    100054: StoreSealBottom_MeshPart1
+    100056: StoreSealTop
+    100058: StoreSealTop_001
+    100060: StoreSealTop_001_MeshPart0
+    100062: StoreSealTop_001_MeshPart1
+    100064: StoreSealTop_MeshPart0
+    100066: StoreSealTop_MeshPart1
+    100068: WallBottom
+    100070: WallTop
     400000: //RootNode
     400002: Plane
     400004: Plane_001
@@ -17,36 +46,165 @@ ModelImporter:
     400008: Wall01
     400010: Wall01_001
     400012: Wall01_002
+    400014: Cube
+    400016: Cube_MeshPart0
+    400018: Cube_MeshPart1
+    400020: Cube_000
+    400022: Cube_000_MeshPart0
+    400024: Cube_000_MeshPart1
+    400026: Cube_001
+    400028: Cube_001_MeshPart0
+    400030: Cube_001_MeshPart1
+    400032: Cube_002
+    400034: Cube_002_MeshPart0
+    400036: Cube_002_MeshPart1
+    400038: Plane_003
+    400040: DoorBottom
+    400042: Floor
+    400044: StoreEntranceBottom
+    400046: StoreEntranceTop
+    400048: StoreEntranceTop_001
+    400050: StoreSealBottom
+    400052: StoreSealBottom_MeshPart0
+    400054: StoreSealBottom_MeshPart1
+    400056: StoreSealTop
+    400058: StoreSealTop_001
+    400060: StoreSealTop_001_MeshPart0
+    400062: StoreSealTop_001_MeshPart1
+    400064: StoreSealTop_MeshPart0
+    400066: StoreSealTop_MeshPart1
+    400068: WallBottom
+    400070: WallTop
     2300000: Plane
     2300002: Plane_001
     2300004: Plane_002
     2300006: Wall01
     2300008: Wall01_001
     2300010: Wall01_002
+    2300012: Cube_MeshPart0
+    2300014: Cube_MeshPart1
+    2300016: Cube_000_MeshPart0
+    2300018: Cube_000_MeshPart1
+    2300020: Cube_001_MeshPart0
+    2300022: Cube_001_MeshPart1
+    2300024: Cube_002_MeshPart0
+    2300026: Cube_002_MeshPart1
+    2300028: Plane_003
+    2300030: Cube_000
+    2300032: Cube_001
+    2300034: Cube_002
+    2300036: DoorBottom
+    2300038: Floor
+    2300040: StoreEntranceBottom
+    2300042: StoreEntranceTop
+    2300044: StoreEntranceTop_001
+    2300046: StoreSealBottom_MeshPart0
+    2300048: StoreSealBottom_MeshPart1
+    2300050: StoreSealTop_001_MeshPart0
+    2300052: StoreSealTop_001_MeshPart1
+    2300054: StoreSealTop_MeshPart0
+    2300056: StoreSealTop_MeshPart1
+    2300058: WallBottom
+    2300060: WallTop
     3300000: Plane
     3300002: Plane_001
     3300004: Plane_002
     3300006: Wall01
     3300008: Wall01_001
     3300010: Wall01_002
+    3300012: Cube_MeshPart0
+    3300014: Cube_MeshPart1
+    3300016: Cube_000_MeshPart0
+    3300018: Cube_000_MeshPart1
+    3300020: Cube_001_MeshPart0
+    3300022: Cube_001_MeshPart1
+    3300024: Cube_002_MeshPart0
+    3300026: Cube_002_MeshPart1
+    3300028: Plane_003
+    3300030: Cube_000
+    3300032: Cube_001
+    3300034: Cube_002
+    3300036: DoorBottom
+    3300038: Floor
+    3300040: StoreEntranceBottom
+    3300042: StoreEntranceTop
+    3300044: StoreEntranceTop_001
+    3300046: StoreSealBottom_MeshPart0
+    3300048: StoreSealBottom_MeshPart1
+    3300050: StoreSealTop_001_MeshPart0
+    3300052: StoreSealTop_001_MeshPart1
+    3300054: StoreSealTop_MeshPart0
+    3300056: StoreSealTop_MeshPart1
+    3300058: WallBottom
+    3300060: WallTop
     4300000: Plane_002
     4300002: Wall01_002
     4300004: Wall01_001
     4300006: Plane_001
     4300008: Plane
     4300010: Wall01
+    4300012: Cube_MeshPart0
+    4300014: Cube_MeshPart1
+    4300016: Cube_000_MeshPart0
+    4300018: Cube_000_MeshPart1
+    4300020: Plane_003
+    4300022: Cube_002_MeshPart0
+    4300024: Cube_002_MeshPart1
+    4300026: Cube_001_MeshPart0
+    4300028: Cube_001_MeshPart1
+    4300030: Cube_000
+    4300032: Cube_002
+    4300034: Cube_001
+    4300036: StoreSealBottom_MeshPart0
+    4300038: StoreSealBottom_MeshPart1
+    4300040: StoreEntranceTop
+    4300042: StoreSealTop_001_MeshPart0
+    4300044: StoreSealTop_001_MeshPart1
+    4300046: StoreSealTop_MeshPart0
+    4300048: StoreSealTop_MeshPart1
+    4300050: StoreEntranceTop_001
+    4300052: StoreEntranceBottom
+    4300054: DoorBottom
+    4300056: Floor
+    4300058: WallTop
+    4300060: WallBottom
     6400000: Plane
     6400002: Plane_001
     6400004: Plane_002
     6400006: Wall01
     6400008: Wall01_001
     6400010: Wall01_002
+    6400012: Cube_MeshPart0
+    6400014: Cube_MeshPart1
+    6400016: Cube_000_MeshPart0
+    6400018: Cube_000_MeshPart1
+    6400020: Cube_001_MeshPart0
+    6400022: Cube_001_MeshPart1
+    6400024: Cube_002_MeshPart0
+    6400026: Cube_002_MeshPart1
+    6400028: Plane_003
+    6400030: Cube_000
+    6400032: Cube_001
+    6400034: Cube_002
+    6400036: DoorBottom
+    6400038: Floor
+    6400040: StoreEntranceBottom
+    6400042: StoreEntranceTop
+    6400044: StoreEntranceTop_001
+    6400046: StoreSealBottom_MeshPart0
+    6400048: StoreSealBottom_MeshPart1
+    6400050: StoreSealTop_001_MeshPart0
+    6400052: StoreSealTop_001_MeshPart1
+    6400054: StoreSealTop_MeshPart0
+    6400056: StoreSealTop_MeshPart1
+    6400058: WallBottom
+    6400060: WallTop
     7400000: Default Take
     9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
-    materialSearch: 1
+    materialSearch: 2
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -71,9 +229,9 @@ ModelImporter:
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
-    secondaryUVAngleDistortion: 20
+    secondaryUVAngleDistortion: 15
     secondaryUVAreaDistortion: 20
-    secondaryUVHardAngle: 150
+    secondaryUVHardAngle: 160
     secondaryUVPackMargin: 4
   tangentSpace:
     normalSmoothAngle: 60
@@ -94,6 +252,6 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   additionalBone: 0
   userData: 

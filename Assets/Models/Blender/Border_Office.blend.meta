@@ -149,6 +149,8 @@ ModelImporter:
     100286: Plane_013
     100288: Plane_014
     100290: Plane_015
+    100292: Lamp_000
+    100294: LampLight_000
     400000: //RootNode
     400002: BorderConcept
     400004: Human
@@ -295,6 +297,8 @@ ModelImporter:
     400286: Plane_013
     400288: Plane_014
     400290: Plane_015
+    400292: Lamp_000
+    400294: LampLight_000
     2300000: //RootNode
     2300002: BorderConcept
     2300004: Human
@@ -441,6 +445,8 @@ ModelImporter:
     2300286: Plane_013
     2300288: Plane_014
     2300290: Plane_015
+    2300292: Lamp_000
+    2300294: LampLight_000
     3300000: //RootNode
     3300002: BorderConcept
     3300004: Human
@@ -587,6 +593,8 @@ ModelImporter:
     3300286: Plane_013
     3300288: Plane_014
     3300290: Plane_015
+    3300292: Lamp_000
+    3300294: LampLight_000
     4300000: Human
     4300002: BorderConcept
     4300004: Office
@@ -732,6 +740,8 @@ ModelImporter:
     4300284: OfficeModular_033
     4300286: OfficeModular_032
     4300288: OfficeModular_031
+    4300290: Lamp_000
+    4300292: LampLight_000
     6400000: BorderConcept
     6400002: Human
     6400004: Office
@@ -877,6 +887,8 @@ ModelImporter:
     6400284: Plane_013
     6400286: Plane_014
     6400288: Plane_015
+    6400290: Lamp_000
+    6400292: LampLight_000
     7400000: Default Take
     9500000: //RootNode
   materials:
