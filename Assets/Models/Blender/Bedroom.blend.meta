@@ -37,6 +37,19 @@ ModelImporter:
     100062: CeilingLamp_001
     100064: CeilingLamp_002
     100066: UCX_Bedroom
+    100068: WardrobeMain
+    100070: DoorL
+    100072: DoorR
+    100074: Door1
+    100076: Door2
+    100078: DoorR_001
+    100080: Door_R
+    100082: Meh
+    100084: Meh_001
+    100086: Meh_002
+    100088: DoorL_001
+    100090: WardrobeMain_001
+    100092: BathroomDoor
     400000: //RootNode
     400002: Human
     400004: Plane
@@ -71,6 +84,19 @@ ModelImporter:
     400062: CeilingLamp_001
     400064: CeilingLamp_002
     400066: UCX_Bedroom
+    400068: WardrobeMain
+    400070: DoorL
+    400072: DoorR
+    400074: Door1
+    400076: Door2
+    400078: DoorR_001
+    400080: Door_R
+    400082: Meh
+    400084: Meh_001
+    400086: Meh_002
+    400088: DoorL_001
+    400090: WardrobeMain_001
+    400092: BathroomDoor
     2300000: Human
     2300002: Plane
     2300004: Plane_001
@@ -104,6 +130,19 @@ ModelImporter:
     2300060: CeilingLamp_001
     2300062: CeilingLamp_002
     2300064: UCX_Bedroom
+    2300066: WardrobeMain
+    2300068: DoorL
+    2300070: DoorR
+    2300072: Door1
+    2300074: Door2
+    2300076: DoorR_001
+    2300078: Door_R
+    2300080: Meh
+    2300082: Meh_001
+    2300084: Meh_002
+    2300086: DoorL_001
+    2300088: WardrobeMain_001
+    2300090: BathroomDoor
     3300000: Human
     3300002: Plane
     3300004: Plane_001
@@ -137,6 +176,19 @@ ModelImporter:
     3300060: CeilingLamp_001
     3300062: CeilingLamp_002
     3300064: UCX_Bedroom
+    3300066: WardrobeMain
+    3300068: DoorL
+    3300070: DoorR
+    3300072: Door1
+    3300074: Door2
+    3300076: DoorR_001
+    3300078: Door_R
+    3300080: Meh
+    3300082: Meh_001
+    3300084: Meh_002
+    3300086: DoorL_001
+    3300088: WardrobeMain_001
+    3300090: BathroomDoor
     4300000: Plane
     4300002: Human
     4300004: Plane_001
@@ -170,6 +222,19 @@ ModelImporter:
     4300060: CeilingLamp_001
     4300062: CeilingLamp_002
     4300064: UCX_Bedroom
+    4300066: WardrobeMain
+    4300068: DoorL
+    4300070: DoorR
+    4300072: Door1
+    4300074: Door2
+    4300076: DoorR_001
+    4300078: Door_R
+    4300080: Meh
+    4300082: Meh_001
+    4300084: Meh_002
+    4300086: DoorL_001
+    4300088: WardrobeMain_001
+    4300090: BathroomDoor
     6400000: Human
     6400002: Plane
     6400004: Plane_001
@@ -203,6 +268,19 @@ ModelImporter:
     6400060: CeilingLamp_001
     6400062: CeilingLamp_002
     6400064: UCX_Bedroom
+    6400066: WardrobeMain
+    6400068: DoorL
+    6400070: DoorR
+    6400072: Door1
+    6400074: Door2
+    6400076: DoorR_001
+    6400078: Door_R
+    6400080: Meh
+    6400082: Meh_001
+    6400084: Meh_002
+    6400086: DoorL_001
+    6400088: WardrobeMain_001
+    6400090: BathroomDoor
     7400000: DoorOpen
     7400002: 
     7400004: Default Take
@@ -217,7 +295,7 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
-    animationCompression: 3
+    animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
     animationScaleError: .5
@@ -232,12 +310,12 @@ ModelImporter:
     addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
-    secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
+    secondaryUVAngleDistortion: 10
+    secondaryUVAreaDistortion: 12
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
   tangentSpace:
@@ -259,6 +337,6 @@ ModelImporter:
     feetSpacing: 0
     rootMotionBoneName: 
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   additionalBone: 0
   userData: 
