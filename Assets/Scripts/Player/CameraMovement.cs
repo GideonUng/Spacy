@@ -68,13 +68,11 @@ public class CameraMovement : MonoBehaviour
 
 			RaycastHit hit;
 
-			Physics.Raycast(transform.position, player.transform.position + player.transform.up * 1.3f - transform.position, out hit);
+            Physics.Raycast(transform.position + transform.forward * distance, -transform.forward * distance, out hit, distance);
 
-			if (hit.collider.gameObject.tag != "Player")
+			if (hit.collider != null)
 			{
-				Physics.Raycast(hit.transform.position, -transform.forward, out hit);
-
-				transform.position = transform.position + transform.forward;
+				transform.position = transform.position + transform.forward * Vector3.Distance(transform.position, hit.point);
 			}
 		}
 
