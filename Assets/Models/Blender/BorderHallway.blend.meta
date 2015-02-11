@@ -8,29 +8,35 @@ ModelImporter:
     100004: Plane
     100006: Hallway
     100008: ShadowPlane
+    100010: SimpleCollider
     400000: //RootNode
     400002: Human
     400004: Plane
     400006: Hallway
     400008: ShadowPlane
+    400010: SimpleCollider
     2300000: Human
     2300002: Plane
     2300004: //RootNode
     2300006: Hallway
     2300008: ShadowPlane
+    2300010: SimpleCollider
     3300000: Human
     3300002: Plane
     3300004: //RootNode
     3300006: Hallway
     3300008: ShadowPlane
+    3300010: SimpleCollider
     4300000: Human
     4300002: Plane
     4300004: Hallway
     4300006: ShadowPlane
+    4300008: SimpleCollider
     6400000: //RootNode
     6400002: Hallway
     6400004: Plane
     6400006: ShadowPlane
+    6400008: SimpleCollider
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -54,10 +60,10 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1

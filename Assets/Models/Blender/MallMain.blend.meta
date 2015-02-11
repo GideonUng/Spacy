@@ -39,6 +39,15 @@ ModelImporter:
     100066: StoreSealTop_MeshPart1
     100068: WallBottom
     100070: WallTop
+    100072: DoorBottom_001
+    100074: StoreEntranceBottom_001
+    100076: StoreEntranceTop_002
+    100078: StoreEntranceTop_003
+    100080: StoreSealBottom_001
+    100082: StoreSealTop_002
+    100084: StoreSealTop_003
+    100086: WallBottom_001
+    100088: WallTop_001
     400000: //RootNode
     400002: Plane
     400004: Plane_001
@@ -75,6 +84,15 @@ ModelImporter:
     400066: StoreSealTop_MeshPart1
     400068: WallBottom
     400070: WallTop
+    400072: DoorBottom_001
+    400074: StoreEntranceBottom_001
+    400076: StoreEntranceTop_002
+    400078: StoreEntranceTop_003
+    400080: StoreSealBottom_001
+    400082: StoreSealTop_002
+    400084: StoreSealTop_003
+    400086: WallBottom_001
+    400088: WallTop_001
     2300000: Plane
     2300002: Plane_001
     2300004: Plane_002
@@ -106,6 +124,18 @@ ModelImporter:
     2300056: StoreSealTop_MeshPart1
     2300058: WallBottom
     2300060: WallTop
+    2300062: StoreSealBottom
+    2300064: StoreSealTop
+    2300066: StoreSealTop_001
+    2300068: DoorBottom_001
+    2300070: StoreEntranceBottom_001
+    2300072: StoreEntranceTop_002
+    2300074: StoreEntranceTop_003
+    2300076: StoreSealBottom_001
+    2300078: StoreSealTop_002
+    2300080: StoreSealTop_003
+    2300082: WallBottom_001
+    2300084: WallTop_001
     3300000: Plane
     3300002: Plane_001
     3300004: Plane_002
@@ -137,6 +167,18 @@ ModelImporter:
     3300056: StoreSealTop_MeshPart1
     3300058: WallBottom
     3300060: WallTop
+    3300062: StoreSealBottom
+    3300064: StoreSealTop
+    3300066: StoreSealTop_001
+    3300068: DoorBottom_001
+    3300070: StoreEntranceBottom_001
+    3300072: StoreEntranceTop_002
+    3300074: StoreEntranceTop_003
+    3300076: StoreSealBottom_001
+    3300078: StoreSealTop_002
+    3300080: StoreSealTop_003
+    3300082: WallBottom_001
+    3300084: WallTop_001
     4300000: Plane_002
     4300002: Wall01_002
     4300004: Wall01_001
@@ -168,6 +210,18 @@ ModelImporter:
     4300056: Floor
     4300058: WallTop
     4300060: WallBottom
+    4300062: StoreSealBottom
+    4300064: StoreSealTop_001
+    4300066: StoreSealTop
+    4300068: WallBottom_001
+    4300070: WallTop_001
+    4300072: DoorBottom_001
+    4300074: StoreEntranceBottom_001
+    4300076: StoreEntranceTop_003
+    4300078: StoreSealTop_003
+    4300080: StoreSealTop_002
+    4300082: StoreEntranceTop_002
+    4300084: StoreSealBottom_001
     6400000: Plane
     6400002: Plane_001
     6400004: Plane_002
@@ -199,6 +253,18 @@ ModelImporter:
     6400056: StoreSealTop_MeshPart1
     6400058: WallBottom
     6400060: WallTop
+    6400062: StoreSealBottom
+    6400064: StoreSealTop
+    6400066: StoreSealTop_001
+    6400068: DoorBottom_001
+    6400070: StoreEntranceBottom_001
+    6400072: StoreEntranceTop_002
+    6400074: StoreEntranceTop_003
+    6400076: StoreSealBottom_001
+    6400078: StoreSealTop_002
+    6400080: StoreSealTop_003
+    6400082: WallBottom_001
+    6400084: WallTop_001
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -225,7 +291,7 @@ ModelImporter:
     addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
