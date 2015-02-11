@@ -93,6 +93,8 @@ ModelImporter:
     100174: PlatformTracks
     100176: PlatformTrainTracks
     100178: PlatformWall
+    100180: Underpass
+    100182: ShadowBox
     400000: BorderConcept
     400002: //RootNode
     400004: Human
@@ -183,6 +185,8 @@ ModelImporter:
     400174: PlatformTracks
     400176: PlatformTrainTracks
     400178: PlatformWall
+    400180: Underpass
+    400182: ShadowBox
     2300000: BorderConcept
     2300002: Human
     2300004: Plane
@@ -272,6 +276,8 @@ ModelImporter:
     2300172: PlatformTracks
     2300174: PlatformTrainTracks
     2300176: PlatformWall
+    2300178: Underpass
+    2300180: ShadowBox
     3300000: BorderConcept
     3300002: Human
     3300004: Plane
@@ -361,6 +367,8 @@ ModelImporter:
     3300172: PlatformTracks
     3300174: PlatformTrainTracks
     3300176: PlatformWall
+    3300178: Underpass
+    3300180: ShadowBox
     4300000: Plane
     4300002: Human
     4300004: BorderConcept
@@ -450,6 +458,8 @@ ModelImporter:
     4300172: PlatformTracks
     4300174: PlatformWall
     4300176: PlatformDoorway
+    4300178: Underpass
+    4300180: ShadowBox
     6400000: BorderConcept
     6400002: Human
     6400004: Plane
@@ -539,6 +549,8 @@ ModelImporter:
     6400172: PlatformTracks
     6400174: PlatformTrainTracks
     6400176: PlatformWall
+    6400178: Underpass
+    6400180: ShadowBox
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -565,7 +577,7 @@ ModelImporter:
     addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     weldVertices: 1
