@@ -90,6 +90,8 @@ ModelImporter:
     100168: StoreEntranceTop_027
     100170: StoreEntranceTop_028
     100172: StoreEntranceTop_029
+    100174: WallBottom_004
+    100176: WallBottom_005
     400000: //RootNode
     400002: Plane
     400004: Plane_001
@@ -177,6 +179,8 @@ ModelImporter:
     400168: StoreEntranceTop_027
     400170: StoreEntranceTop_028
     400172: StoreEntranceTop_029
+    400174: WallBottom_004
+    400176: WallBottom_005
     2300000: Plane
     2300002: Plane_001
     2300004: Plane_002
@@ -262,6 +266,8 @@ ModelImporter:
     2300164: StoreEntranceTop_027
     2300166: StoreEntranceTop_028
     2300168: StoreEntranceTop_029
+    2300170: WallBottom_004
+    2300172: WallBottom_005
     3300000: Plane
     3300002: Plane_001
     3300004: Plane_002
@@ -347,6 +353,8 @@ ModelImporter:
     3300164: StoreEntranceTop_027
     3300166: StoreEntranceTop_028
     3300168: StoreEntranceTop_029
+    3300170: WallBottom_004
+    3300172: WallBottom_005
     4300000: Plane_002
     4300002: Wall01_002
     4300004: Wall01_001
@@ -432,6 +440,8 @@ ModelImporter:
     4300164: StoreEntranceTop_028
     4300166: StoreEntranceTop_027
     4300168: StoreEntranceTop_026
+    4300170: WallBottom_004
+    4300172: WallBottom_005
     6400000: Plane
     6400002: Plane_001
     6400004: Plane_002
@@ -517,6 +527,8 @@ ModelImporter:
     6400164: StoreEntranceTop_027
     6400166: StoreEntranceTop_028
     6400168: StoreEntranceTop_029
+    6400170: WallBottom_004
+    6400172: WallBottom_005
     7400000: Default Take
     9500000: //RootNode
   materials:
