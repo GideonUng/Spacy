@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: fab5868b49736f84bb0829aea60855fc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 2015-02-18_19-20-53
+    100002: Chest
+    100004: Head
+    100006: Hip
+    100008: LClavicle
+    100010: LFinger0
+    100012: LFinger01
+    100014: LFinger02
+    100016: LFinger1
+    100018: LFinger11
+    100020: LFinger12
+    100022: LFinger2
+    100024: LFinger21
+    100026: LFinger22
+    100028: LFinger3
+    100030: LFinger31
+    100032: LFinger32
+    100034: LFinger4
+    100036: LFinger41
+    100038: LFinger42
+    100040: LFoot
+    100042: LForearm
+    100044: LHand
+    100046: LowerSpine
+    100048: LShin
+    100050: LShoulder
+    100052: LThigh
+    100054: LToe
+    100056: MiddleSpine
+    100058: Neck
+    100060: RClavicle
+    100062: RFinger0
+    100064: RFinger01
+    100066: RFinger02
+    100068: RFinger1
+    100070: RFinger11
+    100072: RFinger12
+    100074: RFinger2
+    100076: RFinger21
+    100078: RFinger22
+    100080: RFinger3
+    100082: RFinger31
+    100084: RFinger32
+    100086: RFinger4
+    100088: RFinger41
+    100090: RFinger42
+    100092: RFoot
+    100094: RForearm
+    100096: RHand
+    100098: RShin
+    100100: RShoulder
+    100102: RThigh
+    100104: RToe
+    100106: //RootNode
+    400000: 2015-02-18_19-20-53
+    400002: Chest
+    400004: Head
+    400006: Hip
+    400008: LClavicle
+    400010: LFinger0
+    400012: LFinger01
+    400014: LFinger02
+    400016: LFinger1
+    400018: LFinger11
+    400020: LFinger12
+    400022: LFinger2
+    400024: LFinger21
+    400026: LFinger22
+    400028: LFinger3
+    400030: LFinger31
+    400032: LFinger32
+    400034: LFinger4
+    400036: LFinger41
+    400038: LFinger42
+    400040: LFoot
+    400042: LForearm
+    400044: LHand
+    400046: LowerSpine
+    400048: LShin
+    400050: LShoulder
+    400052: LThigh
+    400054: LToe
+    400056: MiddleSpine
+    400058: Neck
+    400060: RClavicle
+    400062: RFinger0
+    400064: RFinger01
+    400066: RFinger02
+    400068: RFinger1
+    400070: RFinger11
+    400072: RFinger12
+    400074: RFinger2
+    400076: RFinger21
+    400078: RFinger22
+    400080: RFinger3
+    400082: RFinger31
+    400084: RFinger32
+    400086: RFinger4
+    400088: RFinger41
+    400090: RFinger42
+    400092: RFoot
+    400094: RForearm
+    400096: RHand
+    400098: RShin
+    400100: RShoulder
+    400102: RThigh
+    400104: RToe
+    400106: //RootNode
+    7400000: Default Take
+    7400002: 2015-02-18_19-20-53
+    7400004: Strave01
+    7400006: Strave02
+    7400008: StraveBackward01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2015-02-18_19-20-53
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0/LFinger01
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0/LFinger01/LFinger02
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1/LFinger11
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1/LFinger11/LFinger12
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2/LFinger21
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2/LFinger21/LFinger22
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3/LFinger31
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3/LFinger31/LFinger32
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4/LFinger41
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4/LFinger41/LFinger42
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0/RFinger01
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0/RFinger01/RFinger02
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1/RFinger11
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1/RFinger11/RFinger12
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2/RFinger21
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2/RFinger21/RFinger22
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3/RFinger31
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3/RFinger31/RFinger32
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4/RFinger41
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4/RFinger41/RFinger42
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 2015-02-18_19-20-53
+      takeName: 2015-02-18_19-20-53
+      firstFrame: 0
+      lastFrame: 1388
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2015-02-18_19-20-53
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0/LFinger01
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0/LFinger01/LFinger02
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1/LFinger11
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1/LFinger11/LFinger12
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2/LFinger21
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2/LFinger21/LFinger22
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3/LFinger31
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3/LFinger31/LFinger32
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4/LFinger41
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4/LFinger41/LFinger42
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0/RFinger01
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0/RFinger01/RFinger02
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1/RFinger11
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1/RFinger11/RFinger12
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2/RFinger21
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2/RFinger21/RFinger22
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3/RFinger31
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3/RFinger31/RFinger32
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4/RFinger41
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4/RFinger41/RFinger42
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Strave01
+      takeName: 2015-02-18_19-20-53
+      firstFrame: 776
+      lastFrame: 798
+      wrapMode: 0
+      orientationOffsetY: 55.0200005
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2015-02-18_19-20-53
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0/LFinger01
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0/LFinger01/LFinger02
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1/LFinger11
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1/LFinger11/LFinger12
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2/LFinger21
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2/LFinger21/LFinger22
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3/LFinger31
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3/LFinger31/LFinger32
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4/LFinger41
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4/LFinger41/LFinger42
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0/RFinger01
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0/RFinger01/RFinger02
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1/RFinger11
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1/RFinger11/RFinger12
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2/RFinger21
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2/RFinger21/RFinger22
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3/RFinger31
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3/RFinger31/RFinger32
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4/RFinger41
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4/RFinger41/RFinger42
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Strave02
+      takeName: 2015-02-18_19-20-53
+      firstFrame: 1260
+      lastFrame: 1283
+      wrapMode: 0
+      orientationOffsetY: -116.290001
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2015-02-18_19-20-53
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0/LFinger01
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0/LFinger01/LFinger02
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1/LFinger11
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1/LFinger11/LFinger12
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2/LFinger21
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2/LFinger21/LFinger22
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3/LFinger31
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3/LFinger31/LFinger32
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4/LFinger41
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4/LFinger41/LFinger42
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0/RFinger01
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0/RFinger01/RFinger02
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1/RFinger11
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1/RFinger11/RFinger12
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2/RFinger21
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2/RFinger21/RFinger22
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3/RFinger31
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3/RFinger31/RFinger32
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4/RFinger41
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4/RFinger41/RFinger42
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: StraveBackward01
+      takeName: 2015-02-18_19-20-53
+      firstFrame: 1167
+      lastFrame: 1189
+      wrapMode: 0
+      orientationOffsetY: 87.9499969
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: 2015-02-18_19-20-53
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0/LFinger01
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger0/LFinger01/LFinger02
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1/LFinger11
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger1/LFinger11/LFinger12
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2/LFinger21
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger2/LFinger21/LFinger22
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3/LFinger31
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger3/LFinger31/LFinger32
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4/LFinger41
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/LClavicle/LShoulder/LForearm/LHand/LFinger4/LFinger41/LFinger42
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/Neck
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/Neck/Head
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0/RFinger01
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger0/RFinger01/RFinger02
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1/RFinger11
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger1/RFinger11/RFinger12
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2/RFinger21
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger2/RFinger21/RFinger22
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3/RFinger31
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger3/RFinger31/RFinger32
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4/RFinger41
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LowerSpine/MiddleSpine/Chest/RClavicle/RShoulder/RForearm/RHand/RFinger4/RFinger41/RFinger42
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin/LFoot
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/LThigh/LShin/LFoot/LToe
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin/RFoot
+        weight: 1
+      - path: 2015-02-18_19-20-53/Hip/RThigh/RShin/RFoot/RToe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LShin
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RShin
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerSpine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LClavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RClavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LShoulder
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RShoulder
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LToe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RToe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger11
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger12
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger0
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger01
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger02
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LFinger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger11
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger12
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger0
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger01
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger02
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RFinger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Strave(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: 2015-02-18_19-20-53
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -.707106888, y: 0, z: -0, w: .707106769}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hip
+      position: {x: 0, y: -3.10098731e-05, z: 86.7098999}
+      rotation: {x: .402299076, y: .402301848, z: -.581511736, w: .581509054}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LowerSpine
+      position: {x: -10.2142773, y: -5.32917693e-05, z: -1.39411378}
+      rotation: {x: -5.65123095e-08, y: .204818219, z: 2.75763273e-06, w: .978800058}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MiddleSpine
+      position: {x: -8.28518009, y: 6.25513735e-07, z: 2.98023224e-07}
+      rotation: {x: -1.02064019e-08, y: -.135189116, z: 1.3432002e-14, w: .990819812}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Chest
+      position: {x: -10.4886675, y: 7.9187231e-07, z: 4.76837158e-07}
+      rotation: {x: 1.62626179e-08, y: .215406671, z: 2.83149545e-14, w: .976524472}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LClavicle
+      position: {x: -23.3800354, y: -2.32919836, z: 2.6976552}
+      rotation: {x: -.0906261206, y: -.280405641, z: .606504619, w: .738452256}
+      scale: {x: 1, y: 1.00000012, z: .99999994}
+      transformModified: 1
+    - name: LShoulder
+      position: {x: -14.9019775, y: 3.69548798e-06, z: 2.14576721e-06}
+      rotation: {x: .154017657, y: .15227814, z: .13834469, w: .966411233}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LForearm
+      position: {x: -28.9064693, y: -3.39373946e-06, z: 1.1920929e-07}
+      rotation: {x: .001339257, y: .00136243703, z: -.00321796839, w: .999993026}
+      scale: {x: .99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: LHand
+      position: {x: -24.1135349, y: 8.34465027e-07, z: 5.06639481e-07}
+      rotation: {x: -.0167497657, y: -.016782051, z: -.00278626988, w: .999714971}
+      scale: {x: 1, y: .999999762, z: 1}
+      transformModified: 1
+    - name: LFinger0
+      position: {x: -1.86221123, y: -1.53756058, z: 1.48120499}
+      rotation: {x: .360713094, y: .0831371173, z: -.0396223143, w: .928118765}
+      scale: {x: 1, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: LFinger01
+      position: {x: -4.66025448, y: -7.15255737e-07, z: 1.04308128e-06}
+      rotation: {x: -.0137454523, y: -.000689746288, z: .016701594, w: .999765813}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: LFinger02
+      position: {x: -3.04187799, y: 4.05311584e-06, z: -2.74181366e-06}
+      rotation: {x: -.0152330548, y: -.0110572744, z: .00422263704, w: .999813914}
+      scale: {x: .999999702, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: LFinger1
+      position: {x: -9.24121475, y: .627923489, z: 2.99158454}
+      rotation: {x: .0694529936, y: .3548823, z: -.0114466557, w: .932257354}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: LFinger11
+      position: {x: -3.65047312, y: -1.02818012e-05, z: -1.07288361e-06}
+      rotation: {x: 4.44296784e-05, y: 4.41102311e-05, z: 4.86597455e-05, w: 1}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: LFinger12
+      position: {x: -2.49216533, y: 7.30156898e-06, z: -2.14576721e-06}
+      rotation: {x: -.00859626569, y: -.00227635656, z: .0261137597, w: .999619424}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: LFinger2
+      position: {x: -9.47556496, y: .846319914, z: .636090279}
+      rotation: {x: .016794946, y: .0168250985, z: .00284968852, w: .999713361}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: LFinger21
+      position: {x: -4.32228994, y: 7.24568963e-07, z: -3.57627869e-07}
+      rotation: {x: -9.69597168e-05, y: -9.63997445e-05, z: -.000136113609, w: 1}
+      scale: {x: .999999881, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: LFinger22
+      position: {x: -2.39576173, y: 1.08033419e-06, z: 5.96046448e-08}
+      rotation: {x: .0038437848, y: .00363155454, z: .0367601812, w: .999310136}
+      scale: {x: .999999881, y: .99999994, z: 1}
+      transformModified: 1
+    - name: LFinger3
+      position: {x: -9.07085419, y: .629588664, z: -1.74480152}
+      rotation: {x: -.0116590001, y: -.0128887407, z: .0284750406, w: .999443412}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: LFinger31
+      position: {x: -3.93469739, y: 2.47359276e-06, z: -1.1920929e-06}
+      rotation: {x: -.000141559387, y: -.000123598933, z: -.000180041796, w: 1}
+      scale: {x: .999999821, y: 1, z: .999999881}
+      transformModified: 1
+    - name: LFinger32
+      position: {x: -2.2421298, y: 1.25169754e-06, z: 7.15255737e-07}
+      rotation: {x: .00844100583, y: .0057557025, z: .0363968275, w: .999285221}
+      scale: {x: .999999821, y: .999999881, z: .999999821}
+      transformModified: 1
+    - name: LFinger4
+      position: {x: -8.47536182, y: -.566271722, z: -3.36407471}
+      rotation: {x: -.12427932, y: -.023096161, z: .00556705007, w: .99196285}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: LFinger41
+      position: {x: -2.5526855, y: -2.62260437e-06, z: 3.81469727e-06}
+      rotation: {x: -9.41017788e-05, y: -3.69073859e-05, z: -.00015593323, w: 1}
+      scale: {x: .999999881, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: LFinger42
+      position: {x: -1.8718369, y: 4.76837158e-07, z: -1.90734863e-06}
+      rotation: {x: .026976537, y: .0129720317, z: .0360421762, w: .998901904}
+      scale: {x: .999999762, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: Neck
+      position: {x: -22.4363918, y: 1.69390046e-06, z: -5.39530897}
+      rotation: {x: 1.90136284e-09, y: .0251845028, z: -1.45692875e-15, w: .999682844}
+      scale: {x: 1.00000012, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Head
+      position: {x: -13.501833, y: 1.01936041e-06, z: 9.53674316e-07}
+      rotation: {x: -3.72397011e-07, y: -.117592253, z: 2.72153147e-06, w: .99306196}
+      scale: {x: .99999994, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RClavicle
+      position: {x: -23.3800354, y: 2.3292017, z: 2.6976552}
+      rotation: {x: .090617612, y: -.280413896, z: -.606499851, w: .738454223}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: RShoulder
+      position: {x: -14.9045887, y: -3.81469727e-06, z: -1.66893005e-06}
+      rotation: {x: -.154017448, y: .152278632, z: -.138340995, w: .96641171}
+      scale: {x: 1, y: .99999994, z: .999999881}
+      transformModified: 1
+    - name: RForearm
+      position: {x: -28.9064674, y: 6.0684979e-06, z: 3.87430191e-07}
+      rotation: {x: -.00133932894, y: .00136242597, z: .00321625336, w: .999993026}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RHand
+      position: {x: -24.1135273, y: 3.44030559e-06, z: 4.76837158e-07}
+      rotation: {x: .0167497043, y: -.0167819969, z: .00278651342, w: .999714971}
+      scale: {x: 1, y: .999999702, z: .99999994}
+      transformModified: 1
+    - name: RFinger0
+      position: {x: -1.86221111, y: 1.53755808, z: 1.48120475}
+      rotation: {x: -.360712916, y: .0831356943, z: .0396228954, w: .928118885}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RFinger01
+      position: {x: -4.6602602, y: 6.07967377e-06, z: 8.55326653e-06}
+      rotation: {x: .0137454262, y: -.000689750072, z: -.0167016108, w: .999765813}
+      scale: {x: 1.00000012, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: RFinger02
+      position: {x: -3.0418787, y: -4.64916229e-06, z: 2.44379044e-06}
+      rotation: {x: .0152330874, y: -.0110572716, z: -.00422264263, w: .999813914}
+      scale: {x: .999999762, y: 1, z: .99999994}
+      transformModified: 1
+    - name: RFinger1
+      position: {x: -9.24121571, y: -.627921462, z: 2.99158311}
+      rotation: {x: -.0694536939, y: .354881465, z: .0114451582, w: .932257771}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RFinger11
+      position: {x: -3.65047359, y: 4.17232513e-07, z: 1.78813934e-06}
+      rotation: {x: -4.44520265e-05, y: 4.4115819e-05, z: -4.86578792e-05, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RFinger12
+      position: {x: -2.49214292, y: 1.1920929e-07, z: 1.90734863e-06}
+      rotation: {x: .00859628338, y: -.00227635656, z: -.026113769, w: .999619424}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RFinger2
+      position: {x: -9.47556686, y: -.84631741, z: .636088908}
+      rotation: {x: -.0167946443, y: .0168253053, z: -.00283847586, w: .999713361}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RFinger21
+      position: {x: -4.32228661, y: 3.06405127e-06, z: 2.08616257e-07}
+      rotation: {x: 9.69188986e-05, y: -9.64684514e-05, z: .00012464069, w: 1}
+      scale: {x: 1, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: RFinger22
+      position: {x: -2.39575624, y: 5.0291419e-08, z: -5.66244125e-07}
+      rotation: {x: -.00384377968, y: .00363155454, z: -.0367601849, w: .999310136}
+      scale: {x: .999999881, y: .99999994, z: 1}
+      transformModified: 1
+    - name: RFinger3
+      position: {x: -9.07085419, y: -.62958622, z: -1.744802}
+      rotation: {x: .0116590643, y: -.0128888143, z: -.028475292, w: .999443412}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: RFinger31
+      position: {x: -3.93468785, y: -1.07288361e-06, z: -1.07288361e-06}
+      rotation: {x: .000141558514, y: -.000123601843, z: .000180040632, w: 1}
+      scale: {x: .999999762, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: RFinger32
+      position: {x: -2.24213576, y: -6.5267086e-06, z: 7.15255737e-07}
+      rotation: {x: -.00844083913, y: .00575707806, z: -.0363721885, w: .999286115}
+      scale: {x: .999999702, y: 1, z: .999999881}
+      transformModified: 1
+    - name: RFinger4
+      position: {x: -8.47536087, y: .566274047, z: -3.36407542}
+      rotation: {x: .124279484, y: -.0230948403, z: -.00556530245, w: .99196291}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: RFinger41
+      position: {x: -2.55268168, y: 2.38418579e-07, z: -1.90734863e-06}
+      rotation: {x: 9.41511316e-05, y: -3.69176269e-05, z: .000155929476, w: 1}
+      scale: {x: 1, y: 1, z: .999999881}
+      transformModified: 1
+    - name: RFinger42
+      position: {x: -1.87184167, y: -1.1920929e-06, z: -2.86102295e-06}
+      rotation: {x: -.0269765407, y: .0129720317, z: -.0360421948, w: .998901904}
+      scale: {x: .999999881, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: LThigh
+      position: {x: -4.11720276, y: -9.69892406, z: .697082877}
+      rotation: {x: .179202497, y: .00164815143, z: .983769238, w: .00904562976}
+      scale: {x: 1.00000012, y: .999999881, z: 1.0000006}
+      transformModified: 1
+    - name: LShin
+      position: {x: -42.1936455, y: 3.29584486e-06, z: -6.54412133e-08}
+      rotation: {x: 1.32018712e-07, y: 6.57843613e-10, z: .00919727795, w: .99995774}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: LFoot
+      position: {x: -41.4241982, y: 3.2381713e-06, z: 3.99334112e-08}
+      rotation: {x: .845996082, y: -7.94719952e-08, z: -.533189118, w: 4.92055463e-08}
+      scale: {x: 1.00000036, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: LToe
+      position: {x: -10.5533228, y: 1.32616185e-06, z: 2.82343854e-06}
+      rotation: {x: 6.66110367e-08, y: -.221188009, z: 1.88952463e-08, w: .975231171}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: RThigh
+      position: {x: -4.11711931, y: 9.69897652, z: .697031319}
+      rotation: {x: .179202601, y: -.00164838403, z: .983769178, w: -.00905114226}
+      scale: {x: 1.00000024, y: 1, z: 1.00000143}
+      transformModified: 1
+    - name: RShin
+      position: {x: -42.1933403, y: 3.69951726e-06, z: 8.30782483e-08}
+      rotation: {x: 1.13395679e-07, y: -3.98450883e-10, z: -.00919734407, w: .99995774}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RFoot
+      position: {x: -41.424202, y: 2.34954473e-06, z: 2.10664552e-08}
+      rotation: {x: .845996082, y: -7.94719952e-08, z: -.533189118, w: 4.92055463e-08}
+      scale: {x: 1.00000036, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RToe
+      position: {x: -10.5533276, y: 1.31199363e-06, z: -1.36271353e-06}
+      rotation: {x: 6.11615008e-08, y: -.221188024, z: 1.7659266e-08, w: .975231171}
+      scale: {x: 1, y: 1, z: .999999821}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
