@@ -87,7 +87,7 @@ public class PlayerMovement : MonoBehaviour
 		Vector3 targetDirection = new Vector3(horizontal, 0f, vertical);
 		targetDirection = Quaternion.AngleAxis(cameraPosition.eulerAngles.y, Vector3.up) * targetDirection;
 		Quaternion targetRotation = Quaternion.LookRotation(targetDirection, Vector3.up);
-		Quaternion newRotation = Quaternion.Lerp(rigidbody.rotation, targetRotation, turnSmoothing * Time.deltaTime);
-		rigidbody.MoveRotation(newRotation);
+		Quaternion newRotation = Quaternion.Lerp(GetComponent<Rigidbody>().rotation, targetRotation, turnSmoothing * Time.deltaTime);
+		GetComponent<Rigidbody>().MoveRotation(newRotation);
 	}
 }

@@ -38,7 +38,7 @@ public class DoorOpen : MonoBehaviour
 
 	void OnTriggerStay(Collider other)
 	{
-		if (other.collider.gameObject.tag == "Player")
+		if (other.GetComponent<Collider>().gameObject.tag == "Player")
 		{
 			if(closed)
 			{
@@ -77,7 +77,7 @@ public class DoorOpen : MonoBehaviour
 		dialogCamera.transform.position = dialogCamera1.position;
 		dialogCamera.transform.rotation = dialogCamera1.rotation;
 
-		door.animation.Play(open.name);
+		door.GetComponent<Animation>().Play(open.name);
 
 
 		yield return new WaitForSeconds(0.5f);
@@ -93,7 +93,7 @@ public class DoorOpen : MonoBehaviour
 
 		player.GetComponent<Animator>().SetFloat("Speed", 0);
 
-		door.animation.Play(close.name);
+		door.GetComponent<Animation>().Play(close.name);
 
 		lookAtPlayer = false;
 

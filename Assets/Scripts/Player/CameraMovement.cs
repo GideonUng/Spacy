@@ -18,7 +18,7 @@ public class CameraMovement : MonoBehaviour
 	{
 		player = GameObject.FindGameObjectWithTag("Player");
 
-		Screen.showCursor = false;
+		Cursor.visible = false;
 	}
 
 	public void Update()

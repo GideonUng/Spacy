@@ -70,7 +70,7 @@ public class HumanEnemyMovement : MonoBehaviour
 	{
 		if(target.x != 0 && target.z != 0){
 			Quaternion targetRotation = Quaternion.LookRotation(new Vector3(target.x, 0, target.z), Vector3.up);
-			Quaternion newTargetRotation = Quaternion.Lerp(rigidbody.rotation, targetRotation, turnSmoothing * Time.deltaTime);
+			Quaternion newTargetRotation = Quaternion.Lerp(GetComponent<Rigidbody>().rotation, targetRotation, turnSmoothing * Time.deltaTime);
 			transform.rotation = newTargetRotation;
 		}
 	}

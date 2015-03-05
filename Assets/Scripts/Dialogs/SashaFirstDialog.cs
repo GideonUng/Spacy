@@ -54,7 +54,7 @@ public class SashaFirstDialog : MonoBehaviour
 
 		yield return new WaitForSeconds(1.5f);
 
-		door.animation.Play(doorOpen.name);
+		door.GetComponent<Animation>().Play(doorOpen.name);
 
 		yield return new WaitForSeconds(0.5f);
 
@@ -114,7 +114,7 @@ public class SashaFirstDialog : MonoBehaviour
 		sa.transform.position = standingPositions[0].position;
 		sa.transform.rotation = standingPositions[0].rotation;
 
-		door.animation.Play(doorClose.name);
+		door.GetComponent<Animation>().Play(doorClose.name);
 
 		fader.fadeToBlack(false);
 

@@ -42,7 +42,7 @@ public class PauseMenuGUI : MonoBehaviour
 
 		saveData = GameObject.Find("Save Controller").GetComponent<SaveDataReference>().saveData;
 
-		Screen.showCursor = false;
+		Cursor.visible = false;
 		Screen.lockCursor = true;
 		mainSection = new Rect(marginLeft, marginTop, mainSectionWith, Screen.height - 2 * marginTop);
 		secondarySection = new Rect(marginLeft * 2 + mainSectionWith, marginTop, Screen.width - 3 * marginLeft - mainSectionWith, Screen.height - 2 * marginTop);
@@ -276,8 +276,8 @@ public class PauseMenuGUI : MonoBehaviour
 				GetComponent<HUD>().enabled = false;
 			}
 
-			cursorIsEnabled = Screen.showCursor;
-			Screen.showCursor = true;
+			cursorIsEnabled = Cursor.visible;
+			Cursor.visible = true;
 			Screen.lockCursor = false;
 
 			pauseMusic.Play();
@@ -294,7 +294,7 @@ public class PauseMenuGUI : MonoBehaviour
 
 			GetComponent<HUD>().enabled = hudIsEnabled;
 		}
-		Screen.showCursor = cursorIsEnabled;
+		Cursor.visible = cursorIsEnabled;
 		Screen.lockCursor = !cursorIsEnabled;
 
 		settingsActive = false;

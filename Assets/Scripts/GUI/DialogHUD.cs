@@ -40,7 +40,7 @@ public class DialogHUD : MonoBehaviour
 		buttonCount = labels.Length;
 		buttonLabels = labels;
 		show = true;
-		Screen.showCursor = true;
+		Cursor.visible = true;
 	}
 
 	void Update()
@@ -62,7 +62,7 @@ public class DialogHUD : MonoBehaviour
 					decision = i + 1;
 					decided = true;
 					show = false;
-					Screen.showCursor = false;
+					Cursor.visible = false;
 				}
 			}
 			/*
@@ -81,7 +81,7 @@ public class DialogHUD : MonoBehaviour
 				{
 					decided = true;
 					show = false;
-					Screen.showCursor = false;
+					Cursor.visible = false;
 				}
 			}
 		}

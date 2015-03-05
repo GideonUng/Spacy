@@ -69,9 +69,9 @@ public class AlexisDialogController : MonoBehaviour
 		playerAnim.SetFloat("Speed", 0);
 		playerAnim.SetBool("Aiming", false);
 
-		mainCamera.camera.enabled = false;
+		mainCamera.GetComponent<Camera>().enabled = false;
 		mainCamera.GetComponent<MouseLook>().enabled = false;
-		dialogCamera.camera.enabled = true;
+		dialogCamera.GetComponent<Camera>().enabled = true;
 
 		foreach (AudioClip clip in clips)
 		{
@@ -90,9 +90,9 @@ public class AlexisDialogController : MonoBehaviour
 				alexisAnim.SetBool("Dialog", true);
 			}
 
-			audio.clip = clip;
-			audio.Play();
-			yield return new WaitForSeconds(clip.length - audio.time);
+			GetComponent<AudioSource>().clip = clip;
+			GetComponent<AudioSource>().Play();
+			yield return new WaitForSeconds(clip.length - GetComponent<AudioSource>().time);
 
 			if (lookAtPlayer)
 			{
@@ -106,9 +106,9 @@ public class AlexisDialogController : MonoBehaviour
 			lookAtPlayer = !lookAtPlayer;
 		}
 
-		mainCamera.camera.enabled = true;
+		mainCamera.GetComponent<Camera>().enabled = true;
 		mainCamera.GetComponent<MouseLook>().enabled = true;
-		dialogCamera.camera.enabled = false;
+		dialogCamera.GetComponent<Camera>().enabled = false;
 
 		player.GetComponent<PlayerMovement>().enabled = true;
 

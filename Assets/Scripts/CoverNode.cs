@@ -24,7 +24,7 @@ public class CoverNode : MonoBehaviour
 		player = GameObject.FindGameObjectWithTag("Player");
 		friend = GameObject.FindGameObjectWithTag("Friend");
 
-		bounds = collider.bounds.size;
+		bounds = GetComponent<Collider>().bounds.size;
 		if(onLeftSide)
 		{			
 			raypos = transform.position + (transform.forward * bounds.z + transform.right * bounds.x + transform.up * bounds.y) / 2;

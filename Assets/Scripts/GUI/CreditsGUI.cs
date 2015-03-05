@@ -9,7 +9,7 @@ public class CreditsGUI : MonoBehaviour
 
 	void Start()
 	{
-		Screen.showCursor = true;
+		Cursor.visible = true;
 	}
 
 	void Update()
