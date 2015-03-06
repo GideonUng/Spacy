@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 7668124519d21604883d3158f8f2c34b
 ModelImporter:
-  serializedVersion: 16
+  serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
     100002: Human
@@ -49,14 +49,16 @@ ModelImporter:
     addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     optimizeMeshForGPU: 1
+    keepQuads: 0
     weldVertices: 1
     secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15.000001
-    secondaryUVHardAngle: 88
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 60
     secondaryUVPackMargin: 4
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
@@ -79,3 +81,5 @@ ModelImporter:
   animationType: 2
   additionalBone: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 

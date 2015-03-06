@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 183fc8f89b1250746bcd20842e1378d3
 ModelImporter:
-  serializedVersion: 16
+  serializedVersion: 18
   fileIDToRecycleName:
     100000: //RootNode
     100002: Plane
@@ -92,6 +92,7 @@ ModelImporter:
     100172: StoreEntranceTop_029
     100174: WallBottom_004
     100176: WallBottom_005
+    100178: UCX_Floor
     400000: //RootNode
     400002: Plane
     400004: Plane_001
@@ -181,6 +182,7 @@ ModelImporter:
     400172: StoreEntranceTop_029
     400174: WallBottom_004
     400176: WallBottom_005
+    400178: UCX_Floor
     2300000: Plane
     2300002: Plane_001
     2300004: Plane_002
@@ -268,6 +270,7 @@ ModelImporter:
     2300168: StoreEntranceTop_029
     2300170: WallBottom_004
     2300172: WallBottom_005
+    2300174: UCX_Floor
     3300000: Plane
     3300002: Plane_001
     3300004: Plane_002
@@ -355,6 +358,7 @@ ModelImporter:
     3300168: StoreEntranceTop_029
     3300170: WallBottom_004
     3300172: WallBottom_005
+    3300174: UCX_Floor
     4300000: Plane_002
     4300002: Wall01_002
     4300004: Wall01_001
@@ -442,6 +446,7 @@ ModelImporter:
     4300168: StoreEntranceTop_026
     4300170: WallBottom_004
     4300172: WallBottom_005
+    4300174: UCX_Floor
     6400000: Plane
     6400002: Plane_001
     6400004: Plane_002
@@ -529,6 +534,7 @@ ModelImporter:
     6400168: StoreEntranceTop_029
     6400170: WallBottom_004
     6400172: WallBottom_005
+    6400174: UCX_Floor
     7400000: Default Take
     9500000: //RootNode
   materials:
@@ -558,11 +564,13 @@ ModelImporter:
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
+    keepQuads: 0
     weldVertices: 1
     secondaryUVAngleDistortion: 15
     secondaryUVAreaDistortion: 20
     secondaryUVHardAngle: 160
     secondaryUVPackMargin: 4
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
@@ -585,3 +593,5 @@ ModelImporter:
   animationType: 0
   additionalBone: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
