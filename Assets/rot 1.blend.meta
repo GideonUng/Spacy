@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: baabb45c259991340b7926f2b79f73b1
 ModelImporter:
-  serializedVersion: 16
+  serializedVersion: 18
   fileIDToRecycleName:
     100000: arm_hinge_L
     100002: arm_hinge_R
@@ -487,11 +487,18 @@ ModelImporter:
     4300018: Naomi_Body
     4300020: GZM_Circle025
     4300022: GZM_CircleSpine
+    4300024: GZM_CrownHips
     4300026: GZM_Breast_L
+    4300028: GZM_Tongue
     4300030: GZM_Face
     4300032: GZM_Ball025
+    4300034: GZM_Cube025
     4300036: GZM_CircleHips
+    4300038: GZM_RevToe
+    4300040: GZM_Hand
     4300042: GZM_LoLid
+    4300044: GZM_Cube05
+    4300046: GZM_Foot
     4300048: GZM_FaceHead
     4300050: GZM_Master
     4300052: GZM_Gaze
@@ -501,7 +508,12 @@ ModelImporter:
     4300060: GZM_FaceJaw
     4300062: GZM_Neck
     4300064: GZM_Breast_R
+    4300066: GZM_Shoulder
     4300068: GZM_UpLid
+    4300070: GZM_Toe
+    4300072: GZM_Knuckle
+    4300074: GZM_RevFoot
+    4300076: GZM_Root
     4300078: GZM_Head
     4300080: GZM_Jaw
     7400000: Default Take
@@ -546,11 +558,13 @@ ModelImporter:
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
+    keepQuads: 0
     weldVertices: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
@@ -573,3 +587,5 @@ ModelImporter:
   animationType: 2
   additionalBone: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
